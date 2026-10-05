@@ -1,0 +1,1001 @@
+Customer_ID,First_Name,Last_Name,Email,Phone,City,State,Signup_Date,Total_Spent_USD,Status
+CUST-1001,Isabella,Moore,isabella.moore1@example.com,+1-332-555-2707,Jacksonville,FL,2023-08-15,3470.68,Active
+CUST-1002,Liam,Martin,liam.martin2@example.com,+1-628-555-4239,San Diego,CA,2023-01-09,726.61,Pending
+CUST-1003,Benjamin,Miller,benjamin.miller3@example.com,+1-258-555-8661,Phoenix,AZ,2023-02-06,2385.36,Pending
+CUST-1004,Mia,Wilson,mia.wilson4@example.com,+1-228-555-5473,Denver,CO,2023-05-21,1617.62,Active
+CUST-1005,William,Wilson,william.wilson5@example.com,+1-775-555-1002,Charlotte,NC,2023-08-28,3600.3,Active
+CUST-1006,Mia,Johnson,mia.johnson6@example.com,+1-990-555-8618,Columbus,OH,2023-05-04,1631.06,Inactive
+CUST-1007,Alexander,Jackson,alexander.jackson7@example.com,+1-556-555-3425,San Jose,CA,2023-02-12,3365.51,Pending
+CUST-1008,William,Thomas,william.thomas8@example.com,+1-732-555-2439,New York,NY,2023-08-11,1335.32,Inactive
+CUST-1009,Harper,Gonzalez,harper.gonzalez9@example.com,+1-229-555-1121,Denver,CO,2023-04-25,2915.35,Active
+CUST-1010,Noah,Brown,noah.brown10@example.com,+1-606-555-5799,San Diego,CA,2023-04-20,78.82,Inactive
+CUST-1011,Isabella,Miller,isabella.miller11@example.com,+1-971-555-2866,Indianapolis,IN,2023-07-17,4080.26,Inactive
+CUST-1012,Olivia,Gonzalez,olivia.gonzalez12@example.com,+1-309-555-2200,San Francisco,CA,2023-03-13,1014.58,Active
+CUST-1013,Alexander,Miller,alexander.miller13@example.com,+1-585-555-5784,Los Angeles,CA,2023-03-18,3899.71,Inactive
+CUST-1014,Mason,Lopez,mason.lopez14@example.com,+1-882-555-8500,Washington,DC,2023-05-10,1028.48,Active
+CUST-1015,William,Lopez,william.lopez15@example.com,+1-937-555-4388,Indianapolis,IN,2023-11-26,3828.74,Inactive
+CUST-1016,Amelia,Davis,amelia.davis16@example.com,+1-619-555-5234,San Jose,CA,2023-06-14,2815.36,Active
+CUST-1017,James,Lopez,james.lopez17@example.com,+1-478-555-3638,Austin,TX,2023-10-24,1956.69,Inactive
+CUST-1018,Lucas,Wilson,lucas.wilson18@example.com,+1-903-555-8450,Indianapolis,IN,2023-02-28,3401.93,Inactive
+CUST-1019,Ethan,Martin,ethan.martin19@example.com,+1-245-555-9581,San Jose,CA,2023-12-05,4922.98,Active
+CUST-1020,Charlotte,Moore,charlotte.moore20@example.com,+1-267-555-8238,Philadelphia,PA,2023-01-27,3979.7,Inactive
+CUST-1021,Sophia,Brown,sophia.brown21@example.com,+1-832-555-5497,San Jose,CA,2023-08-06,4784.26,Pending
+CUST-1022,James,Hernandez,james.hernandez22@example.com,+1-816-555-6544,Charlotte,NC,2023-10-24,1031.57,Active
+CUST-1023,Emma,Davis,emma.davis23@example.com,+1-419-555-5546,San Antonio,TX,2023-09-24,513.9,Active
+CUST-1024,Emma,Davis,emma.davis24@example.com,+1-584-555-2132,Houston,TX,2023-05-02,3561.37,Active
+CUST-1025,Benjamin,Smith,benjamin.smith25@example.com,+1-624-555-5521,Jacksonville,FL,2023-02-25,4273.5,Inactive
+CUST-1026,Sophia,Martin,sophia.martin26@example.com,+1-807-555-1039,Fort Worth,TX,2023-01-10,4636.06,Inactive
+CUST-1027,Amelia,Martin,amelia.martin27@example.com,+1-722-555-3896,Dallas,TX,2023-02-21,2293.0,Inactive
+CUST-1028,Amelia,Davis,amelia.davis28@example.com,+1-931-555-4942,Phoenix,AZ,2023-10-15,4420.9,Active
+CUST-1029,Sophia,Gonzalez,sophia.gonzalez29@example.com,+1-479-555-5011,San Francisco,CA,2023-04-17,2767.05,Inactive
+CUST-1030,Henry,Williams,henry.williams30@example.com,+1-379-555-6512,Dallas,TX,2023-04-02,1597.6,Active
+CUST-1031,Charlotte,Jones,charlotte.jones31@example.com,+1-589-555-7585,New York,NY,2023-01-14,234.29,Active
+CUST-1032,Ethan,Williams,ethan.williams32@example.com,+1-971-555-6072,San Antonio,TX,2023-08-22,2029.6,Inactive
+CUST-1033,Olivia,Miller,olivia.miller33@example.com,+1-260-555-1844,San Antonio,TX,2023-03-28,141.27,Pending
+CUST-1034,William,Rodriguez,william.rodriguez34@example.com,+1-382-555-6697,Seattle,WA,2023-07-13,3351.27,Inactive
+CUST-1035,Lucas,Gonzalez,lucas.gonzalez35@example.com,+1-641-555-6917,Washington,DC,2023-03-06,2756.78,Active
+CUST-1036,Olivia,Rodriguez,olivia.rodriguez36@example.com,+1-400-555-6288,Fort Worth,TX,2023-07-04,3703.2,Inactive
+CUST-1037,Lucas,Taylor,lucas.taylor37@example.com,+1-606-555-4169,Austin,TX,2023-02-04,1540.91,Pending
+CUST-1038,Ava,Garcia,ava.garcia38@example.com,+1-590-555-8936,Philadelphia,PA,2023-01-24,250.95,Pending
+CUST-1039,Mason,Rodriguez,mason.rodriguez39@example.com,+1-422-555-9826,Chicago,IL,2023-01-19,2977.13,Active
+CUST-1040,Alexander,Thomas,alexander.thomas40@example.com,+1-639-555-5564,New York,NY,2023-10-09,3240.75,Active
+CUST-1041,Henry,Williams,henry.williams41@example.com,+1-666-555-6485,San Antonio,TX,2023-12-02,3472.71,Active
+CUST-1042,Olivia,Martinez,olivia.martinez42@example.com,+1-699-555-4645,Philadelphia,PA,2023-03-13,1280.5,Inactive
+CUST-1043,Amelia,Jackson,amelia.jackson43@example.com,+1-542-555-9911,Jacksonville,FL,2023-07-25,3541.44,Pending
+CUST-1044,Charlotte,Johnson,charlotte.johnson44@example.com,+1-617-555-4523,New York,NY,2023-01-17,2713.61,Inactive
+CUST-1045,Emma,Gonzalez,emma.gonzalez45@example.com,+1-711-555-3184,Phoenix,AZ,2023-08-25,3599.97,Active
+CUST-1046,Henry,Jackson,henry.jackson46@example.com,+1-299-555-3698,San Antonio,TX,2023-03-22,4766.89,Inactive
+CUST-1047,Ethan,Anderson,ethan.anderson47@example.com,+1-569-555-3480,New York,NY,2023-05-09,393.95,Pending
+CUST-1048,James,Brown,james.brown48@example.com,+1-511-555-8180,Houston,TX,2023-10-02,3293.05,Active
+CUST-1049,Mia,Miller,mia.miller49@example.com,+1-631-555-9764,Los Angeles,CA,2023-05-26,1646.77,Pending
+CUST-1050,Noah,Martin,noah.martin50@example.com,+1-409-555-9687,Seattle,WA,2023-02-25,1115.98,Pending
+CUST-1051,James,Hernandez,james.hernandez51@example.com,+1-938-555-7725,Philadelphia,PA,2023-10-18,3542.6,Active
+CUST-1052,Harper,Wilson,harper.wilson52@example.com,+1-965-555-7608,Austin,TX,2023-08-09,4391.42,Active
+CUST-1053,Mason,Garcia,mason.garcia53@example.com,+1-800-555-6706,Seattle,WA,2023-06-17,2536.68,Pending
+CUST-1054,Mason,Martin,mason.martin54@example.com,+1-233-555-9429,San Diego,CA,2023-12-02,1939.61,Pending
+CUST-1055,Liam,Davis,liam.davis55@example.com,+1-951-555-2540,Seattle,WA,2023-01-07,4121.38,Active
+CUST-1056,Olivia,Lopez,olivia.lopez56@example.com,+1-684-555-2051,Philadelphia,PA,2023-09-11,2882.98,Active
+CUST-1057,Benjamin,Rodriguez,benjamin.rodriguez57@example.com,+1-300-555-2846,Dallas,TX,2023-01-23,3159.52,Pending
+CUST-1058,Charlotte,Lopez,charlotte.lopez58@example.com,+1-533-555-3792,Los Angeles,CA,2023-11-20,3347.51,Inactive
+CUST-1059,Mason,Martin,mason.martin59@example.com,+1-221-555-4832,Jacksonville,FL,2023-04-12,817.23,Inactive
+CUST-1060,Amelia,Lopez,amelia.lopez60@example.com,+1-290-555-6984,San Francisco,CA,2023-02-17,4898.54,Active
+CUST-1061,Noah,Williams,noah.williams61@example.com,+1-790-555-2508,Austin,TX,2023-01-06,1511.61,Active
+CUST-1062,Harper,Hernandez,harper.hernandez62@example.com,+1-374-555-4867,Houston,TX,2023-07-23,1419.96,Pending
+CUST-1063,William,Williams,william.williams63@example.com,+1-407-555-6907,Houston,TX,2023-11-21,4483.25,Active
+CUST-1064,Harper,Anderson,harper.anderson64@example.com,+1-836-555-4743,Jacksonville,FL,2023-06-17,4812.91,Inactive
+CUST-1065,Emma,Davis,emma.davis65@example.com,+1-796-555-7720,Washington,DC,2023-05-12,3880.15,Active
+CUST-1066,Benjamin,Gonzalez,benjamin.gonzalez66@example.com,+1-376-555-4650,Philadelphia,PA,2023-05-27,4246.51,Active
+CUST-1067,Amelia,Rodriguez,amelia.rodriguez67@example.com,+1-597-555-2918,Washington,DC,2023-09-17,514.22,Active
+CUST-1068,Sophia,Thomas,sophia.thomas68@example.com,+1-271-555-3239,Chicago,IL,2023-11-05,3111.18,Inactive
+CUST-1069,Noah,Johnson,noah.johnson69@example.com,+1-220-555-5755,Charlotte,NC,2023-10-25,2048.61,Active
+CUST-1070,Lucas,Garcia,lucas.garcia70@example.com,+1-578-555-2669,Los Angeles,CA,2023-06-02,699.36,Active
+CUST-1071,Ava,Rodriguez,ava.rodriguez71@example.com,+1-344-555-3763,Fort Worth,TX,2023-08-25,1794.91,Active
+CUST-1072,Lucas,Jackson,lucas.jackson72@example.com,+1-649-555-2387,San Diego,CA,2023-02-28,4351.7,Pending
+CUST-1073,Ava,Wilson,ava.wilson73@example.com,+1-935-555-3904,Columbus,OH,2023-02-18,4192.77,Active
+CUST-1074,Ava,Martinez,ava.martinez74@example.com,+1-572-555-8928,Chicago,IL,2023-05-27,4138.95,Active
+CUST-1075,Ethan,Taylor,ethan.taylor75@example.com,+1-293-555-6552,Columbus,OH,2023-11-22,4874.32,Inactive
+CUST-1076,Sophia,Hernandez,sophia.hernandez76@example.com,+1-967-555-4337,Jacksonville,FL,2023-01-11,4642.48,Pending
+CUST-1077,Benjamin,Hernandez,benjamin.hernandez77@example.com,+1-304-555-1800,Austin,TX,2023-10-15,544.8,Active
+CUST-1078,Liam,Johnson,liam.johnson78@example.com,+1-883-555-6583,Austin,TX,2023-08-08,784.03,Active
+CUST-1079,Isabella,Smith,isabella.smith79@example.com,+1-694-555-4184,San Diego,CA,2023-01-03,1651.56,Active
+CUST-1080,Charlotte,Miller,charlotte.miller80@example.com,+1-446-555-6100,Charlotte,NC,2023-03-11,765.82,Pending
+CUST-1081,Olivia,Hernandez,olivia.hernandez81@example.com,+1-519-555-6120,San Jose,CA,2023-06-27,4033.31,Inactive
+CUST-1082,Ethan,Anderson,ethan.anderson82@example.com,+1-508-555-8260,Phoenix,AZ,2023-03-07,2774.68,Inactive
+CUST-1083,Noah,Gonzalez,noah.gonzalez83@example.com,+1-754-555-2143,Washington,DC,2023-07-01,4883.67,Pending
+CUST-1084,Noah,Brown,noah.brown84@example.com,+1-775-555-4688,Jacksonville,FL,2023-08-03,1785.5,Active
+CUST-1085,William,Martin,william.martin85@example.com,+1-852-555-5339,San Antonio,TX,2023-11-23,4494.94,Inactive
+CUST-1086,Amelia,Johnson,amelia.johnson86@example.com,+1-334-555-1020,New York,NY,2023-06-11,4678.28,Pending
+CUST-1087,Evelyn,Anderson,evelyn.anderson87@example.com,+1-456-555-6193,Austin,TX,2023-01-23,755.42,Pending
+CUST-1088,Lucas,Taylor,lucas.taylor88@example.com,+1-359-555-7548,Jacksonville,FL,2023-03-12,1618.5,Active
+CUST-1089,Amelia,Thomas,amelia.thomas89@example.com,+1-349-555-3657,Los Angeles,CA,2023-02-20,4557.55,Pending
+CUST-1090,Amelia,Wilson,amelia.wilson90@example.com,+1-789-555-1135,San Diego,CA,2023-10-01,1363.56,Active
+CUST-1091,Isabella,Jones,isabella.jones91@example.com,+1-792-555-9427,New York,NY,2023-03-25,3712.34,Inactive
+CUST-1092,Olivia,Martin,olivia.martin92@example.com,+1-429-555-2629,Houston,TX,2023-08-24,3163.43,Active
+CUST-1093,Harper,Martin,harper.martin93@example.com,+1-904-555-9063,Jacksonville,FL,2023-02-20,3891.45,Active
+CUST-1094,Benjamin,Jackson,benjamin.jackson94@example.com,+1-659-555-3890,Denver,CO,2023-02-23,3991.1,Active
+CUST-1095,Lucas,Lopez,lucas.lopez95@example.com,+1-631-555-1977,New York,NY,2023-09-18,4253.82,Active
+CUST-1096,James,Taylor,james.taylor96@example.com,+1-508-555-6642,Houston,TX,2023-04-26,3896.32,Pending
+CUST-1097,Mia,Taylor,mia.taylor97@example.com,+1-299-555-5132,Jacksonville,FL,2023-06-18,4669.82,Active
+CUST-1098,Harper,Jones,harper.jones98@example.com,+1-390-555-3328,Dallas,TX,2023-07-03,4617.28,Active
+CUST-1099,Alexander,Smith,alexander.smith99@example.com,+1-577-555-2941,New York,NY,2023-05-24,147.13,Active
+CUST-1100,James,Hernandez,james.hernandez100@example.com,+1-942-555-2577,Jacksonville,FL,2023-05-28,3471.74,Active
+CUST-1101,Alexander,Rodriguez,alexander.rodriguez101@example.com,+1-965-555-5677,Denver,CO,2023-05-26,4707.83,Inactive
+CUST-1102,Ava,Smith,ava.smith102@example.com,+1-712-555-8875,Chicago,IL,2023-12-14,3672.04,Active
+CUST-1103,Lucas,Davis,lucas.davis103@example.com,+1-960-555-6117,Phoenix,AZ,2023-12-09,1069.9,Active
+CUST-1104,Isabella,Martinez,isabella.martinez104@example.com,+1-542-555-7266,San Antonio,TX,2023-09-08,4757.18,Inactive
+CUST-1105,James,Jones,james.jones105@example.com,+1-344-555-4468,Philadelphia,PA,2023-02-01,3872.5,Active
+CUST-1106,Isabella,Smith,isabella.smith106@example.com,+1-472-555-7144,Washington,DC,2023-09-09,3980.41,Active
+CUST-1107,Olivia,Wilson,olivia.wilson107@example.com,+1-511-555-5234,San Jose,CA,2023-02-17,4314.2,Active
+CUST-1108,Ava,Taylor,ava.taylor108@example.com,+1-718-555-8399,Los Angeles,CA,2023-02-11,1272.54,Active
+CUST-1109,William,Wilson,william.wilson109@example.com,+1-245-555-2253,San Diego,CA,2023-10-12,1498.58,Active
+CUST-1110,James,Johnson,james.johnson110@example.com,+1-839-555-7664,San Jose,CA,2023-02-12,2118.57,Active
+CUST-1111,Sophia,Smith,sophia.smith111@example.com,+1-279-555-7270,San Antonio,TX,2023-03-17,4990.84,Active
+CUST-1112,Charlotte,Hernandez,charlotte.hernandez112@example.com,+1-799-555-1932,Austin,TX,2023-07-24,4861.74,Active
+CUST-1113,Ethan,Martinez,ethan.martinez113@example.com,+1-461-555-9540,San Diego,CA,2023-02-21,1032.78,Active
+CUST-1114,Ava,Garcia,ava.garcia114@example.com,+1-920-555-9721,New York,NY,2023-11-05,2279.93,Inactive
+CUST-1115,Liam,Gonzalez,liam.gonzalez115@example.com,+1-761-555-9189,Austin,TX,2023-05-13,1741.38,Pending
+CUST-1116,James,Smith,james.smith116@example.com,+1-424-555-4910,San Diego,CA,2023-06-08,1505.98,Pending
+CUST-1117,William,Jones,william.jones117@example.com,+1-517-555-1125,Indianapolis,IN,2023-03-21,1956.34,Active
+CUST-1118,Liam,Anderson,liam.anderson118@example.com,+1-863-555-2617,Indianapolis,IN,2023-05-09,2848.45,Inactive
+CUST-1119,Noah,Smith,noah.smith119@example.com,+1-221-555-3548,Fort Worth,TX,2023-12-05,4539.11,Active
+CUST-1120,William,Thomas,william.thomas120@example.com,+1-765-555-2693,New York,NY,2023-12-18,2931.0,Active
+CUST-1121,Amelia,Smith,amelia.smith121@example.com,+1-718-555-8653,Charlotte,NC,2023-08-15,2022.87,Active
+CUST-1122,Mia,Jackson,mia.jackson122@example.com,+1-539-555-5018,Columbus,OH,2023-08-06,3587.73,Active
+CUST-1123,Benjamin,Martin,benjamin.martin123@example.com,+1-600-555-6825,Austin,TX,2023-06-16,4798.68,Inactive
+CUST-1124,Mason,Moore,mason.moore124@example.com,+1-440-555-3643,San Jose,CA,2023-10-17,2660.71,Active
+CUST-1125,Olivia,Garcia,olivia.garcia125@example.com,+1-536-555-3889,Washington,DC,2023-06-26,676.95,Pending
+CUST-1126,Isabella,Smith,isabella.smith126@example.com,+1-520-555-7066,Jacksonville,FL,2023-09-24,3189.06,Pending
+CUST-1127,Evelyn,Wilson,evelyn.wilson127@example.com,+1-573-555-9673,San Jose,CA,2023-05-13,3724.37,Active
+CUST-1128,Olivia,Davis,olivia.davis128@example.com,+1-366-555-6027,San Francisco,CA,2023-03-19,4662.95,Active
+CUST-1129,Lucas,Rodriguez,lucas.rodriguez129@example.com,+1-747-555-7851,Columbus,OH,2023-04-23,362.98,Active
+CUST-1130,Henry,Smith,henry.smith130@example.com,+1-256-555-1766,Denver,CO,2023-10-11,2280.66,Active
+CUST-1131,Liam,Taylor,liam.taylor131@example.com,+1-590-555-3577,Seattle,WA,2023-12-08,1232.73,Pending
+CUST-1132,Olivia,Miller,olivia.miller132@example.com,+1-523-555-3331,Fort Worth,TX,2023-09-24,3701.69,Pending
+CUST-1133,Charlotte,Miller,charlotte.miller133@example.com,+1-646-555-1650,Denver,CO,2023-04-15,973.27,Active
+CUST-1134,Amelia,Garcia,amelia.garcia134@example.com,+1-784-555-8949,Columbus,OH,2023-01-09,2981.49,Active
+CUST-1135,Lucas,Moore,lucas.moore135@example.com,+1-760-555-3469,Chicago,IL,2023-11-23,1225.28,Active
+CUST-1136,Mason,Jones,mason.jones136@example.com,+1-275-555-9843,Dallas,TX,2023-11-23,2146.75,Pending
+CUST-1137,Alexander,Gonzalez,alexander.gonzalez137@example.com,+1-834-555-9588,San Jose,CA,2023-02-01,661.49,Active
+CUST-1138,Alexander,Rodriguez,alexander.rodriguez138@example.com,+1-970-555-8895,Houston,TX,2023-03-08,243.01,Active
+CUST-1139,Isabella,Miller,isabella.miller139@example.com,+1-421-555-4323,Charlotte,NC,2023-06-18,4854.6,Pending
+CUST-1140,Harper,Smith,harper.smith140@example.com,+1-874-555-9935,Denver,CO,2023-10-25,4908.17,Active
+CUST-1141,Henry,Taylor,henry.taylor141@example.com,+1-784-555-4653,San Francisco,CA,2023-04-26,2434.32,Active
+CUST-1142,Mia,Miller,mia.miller142@example.com,+1-677-555-2667,San Diego,CA,2023-01-04,3756.74,Pending
+CUST-1143,Olivia,Rodriguez,olivia.rodriguez143@example.com,+1-279-555-8204,Los Angeles,CA,2023-03-18,4601.82,Active
+CUST-1144,Amelia,Moore,amelia.moore144@example.com,+1-239-555-6403,Jacksonville,FL,2023-04-27,4139.67,Active
+CUST-1145,Isabella,Gonzalez,isabella.gonzalez145@example.com,+1-870-555-3341,San Jose,CA,2023-07-16,1143.14,Active
+CUST-1146,James,Martin,james.martin146@example.com,+1-854-555-9604,Denver,CO,2023-06-28,4645.11,Active
+CUST-1147,William,Brown,william.brown147@example.com,+1-829-555-3455,Fort Worth,TX,2023-02-21,695.29,Active
+CUST-1148,Ava,Moore,ava.moore148@example.com,+1-396-555-7801,Denver,CO,2023-07-27,72.85,Active
+CUST-1149,Emma,Anderson,emma.anderson149@example.com,+1-907-555-5440,Indianapolis,IN,2023-10-01,4485.5,Active
+CUST-1150,James,Anderson,james.anderson150@example.com,+1-343-555-7126,Denver,CO,2023-02-19,2432.68,Active
+CUST-1151,Mason,Wilson,mason.wilson151@example.com,+1-714-555-9533,San Antonio,TX,2023-08-11,1624.22,Active
+CUST-1152,Emma,Jones,emma.jones152@example.com,+1-358-555-8303,Charlotte,NC,2023-12-23,3281.36,Active
+CUST-1153,Ava,Thomas,ava.thomas153@example.com,+1-708-555-6302,Washington,DC,2023-02-28,1317.49,Active
+CUST-1154,Olivia,Smith,olivia.smith154@example.com,+1-535-555-9861,Fort Worth,TX,2023-02-11,827.28,Pending
+CUST-1155,Charlotte,Williams,charlotte.williams155@example.com,+1-285-555-6059,Jacksonville,FL,2023-05-05,701.13,Active
+CUST-1156,Noah,Hernandez,noah.hernandez156@example.com,+1-696-555-8606,Fort Worth,TX,2023-02-08,4120.8,Inactive
+CUST-1157,Emma,Johnson,emma.johnson157@example.com,+1-465-555-4552,New York,NY,2023-06-09,2114.62,Pending
+CUST-1158,Mia,Taylor,mia.taylor158@example.com,+1-432-555-4731,San Diego,CA,2023-08-24,615.64,Active
+CUST-1159,Sophia,Gonzalez,sophia.gonzalez159@example.com,+1-642-555-9227,San Francisco,CA,2023-09-26,373.99,Pending
+CUST-1160,Mason,Garcia,mason.garcia160@example.com,+1-899-555-6188,Seattle,WA,2023-05-17,611.39,Inactive
+CUST-1161,Amelia,Wilson,amelia.wilson161@example.com,+1-373-555-9047,Los Angeles,CA,2023-04-05,4816.57,Active
+CUST-1162,Evelyn,Smith,evelyn.smith162@example.com,+1-788-555-1334,Charlotte,NC,2023-03-06,1625.73,Inactive
+CUST-1163,Noah,Thomas,noah.thomas163@example.com,+1-330-555-6858,Denver,CO,2023-05-17,4696.97,Active
+CUST-1164,Evelyn,Hernandez,evelyn.hernandez164@example.com,+1-409-555-6909,Charlotte,NC,2023-09-16,2774.7,Active
+CUST-1165,Ethan,Rodriguez,ethan.rodriguez165@example.com,+1-693-555-6000,Columbus,OH,2023-09-21,375.88,Active
+CUST-1166,Ethan,Taylor,ethan.taylor166@example.com,+1-966-555-3272,Seattle,WA,2023-07-14,4070.74,Active
+CUST-1167,Benjamin,Garcia,benjamin.garcia167@example.com,+1-453-555-9355,Jacksonville,FL,2023-01-24,4684.97,Active
+CUST-1168,Ethan,Garcia,ethan.garcia168@example.com,+1-656-555-6737,New York,NY,2023-02-10,2453.5,Active
+CUST-1169,Alexander,Thomas,alexander.thomas169@example.com,+1-336-555-6310,Columbus,OH,2023-05-25,447.72,Inactive
+CUST-1170,Amelia,Garcia,amelia.garcia170@example.com,+1-632-555-7234,Los Angeles,CA,2023-08-12,3990.15,Active
+CUST-1171,Harper,Martinez,harper.martinez171@example.com,+1-464-555-8329,Los Angeles,CA,2023-11-23,2963.79,Active
+CUST-1172,Ethan,Anderson,ethan.anderson172@example.com,+1-972-555-7697,San Diego,CA,2023-03-19,2077.0,Inactive
+CUST-1173,Liam,Moore,liam.moore173@example.com,+1-826-555-1449,Washington,DC,2023-12-04,4281.79,Active
+CUST-1174,Evelyn,Smith,evelyn.smith174@example.com,+1-297-555-9056,Indianapolis,IN,2023-01-10,2643.79,Active
+CUST-1175,Isabella,Moore,isabella.moore175@example.com,+1-638-555-2902,Dallas,TX,2023-01-12,3662.98,Active
+CUST-1176,Isabella,Garcia,isabella.garcia176@example.com,+1-605-555-3395,Jacksonville,FL,2023-04-12,132.09,Active
+CUST-1177,Amelia,Rodriguez,amelia.rodriguez177@example.com,+1-693-555-1509,Washington,DC,2023-11-12,102.46,Active
+CUST-1178,Emma,Johnson,emma.johnson178@example.com,+1-466-555-4447,San Jose,CA,2023-06-07,1352.85,Active
+CUST-1179,Emma,Garcia,emma.garcia179@example.com,+1-996-555-9018,San Francisco,CA,2023-03-06,2514.4,Active
+CUST-1180,Lucas,Garcia,lucas.garcia180@example.com,+1-898-555-8581,San Francisco,CA,2023-03-03,64.68,Active
+CUST-1181,Evelyn,Moore,evelyn.moore181@example.com,+1-208-555-4639,San Diego,CA,2023-12-20,1286.28,Active
+CUST-1182,Noah,Martin,noah.martin182@example.com,+1-840-555-6598,Washington,DC,2023-02-24,1441.74,Active
+CUST-1183,Emma,Moore,emma.moore183@example.com,+1-957-555-1909,Houston,TX,2023-05-17,3299.66,Inactive
+CUST-1184,Olivia,Taylor,olivia.taylor184@example.com,+1-862-555-8932,San Jose,CA,2023-03-01,206.03,Active
+CUST-1185,Olivia,Lopez,olivia.lopez185@example.com,+1-629-555-3116,Charlotte,NC,2023-05-26,3392.9,Pending
+CUST-1186,Ethan,Moore,ethan.moore186@example.com,+1-798-555-6844,Chicago,IL,2023-01-20,3707.89,Active
+CUST-1187,Liam,Martinez,liam.martinez187@example.com,+1-987-555-4024,Austin,TX,2023-03-26,2357.62,Active
+CUST-1188,Mia,Anderson,mia.anderson188@example.com,+1-516-555-8888,San Antonio,TX,2023-11-06,420.36,Active
+CUST-1189,Liam,Smith,liam.smith189@example.com,+1-684-555-6502,San Jose,CA,2023-07-25,4644.94,Active
+CUST-1190,Noah,Anderson,noah.anderson190@example.com,+1-546-555-7353,San Jose,CA,2023-01-23,1613.35,Active
+CUST-1191,Benjamin,Anderson,benjamin.anderson191@example.com,+1-361-555-7702,San Antonio,TX,2023-07-02,1539.82,Inactive
+CUST-1192,Lucas,Hernandez,lucas.hernandez192@example.com,+1-832-555-8206,Indianapolis,IN,2023-04-03,4911.55,Active
+CUST-1193,Alexander,Hernandez,alexander.hernandez193@example.com,+1-742-555-3568,San Jose,CA,2023-09-28,1998.69,Active
+CUST-1194,Amelia,Garcia,amelia.garcia194@example.com,+1-844-555-1464,Dallas,TX,2023-12-27,3624.14,Active
+CUST-1195,Sophia,Davis,sophia.davis195@example.com,+1-219-555-5914,San Antonio,TX,2023-09-21,4774.35,Pending
+CUST-1196,Ava,Jackson,ava.jackson196@example.com,+1-290-555-8805,San Jose,CA,2023-07-05,3716.35,Active
+CUST-1197,Emma,Johnson,emma.johnson197@example.com,+1-491-555-3653,Los Angeles,CA,2023-07-05,499.42,Pending
+CUST-1198,Harper,Rodriguez,harper.rodriguez198@example.com,+1-621-555-2394,Phoenix,AZ,2023-03-18,3276.72,Inactive
+CUST-1199,Lucas,Hernandez,lucas.hernandez199@example.com,+1-406-555-1718,Houston,TX,2023-03-15,579.19,Active
+CUST-1200,Amelia,Thomas,amelia.thomas200@example.com,+1-331-555-2116,Austin,TX,2023-03-27,4673.7,Inactive
+CUST-1201,Benjamin,Smith,benjamin.smith201@example.com,+1-754-555-9297,Chicago,IL,2023-09-04,4288.63,Active
+CUST-1202,Charlotte,Lopez,charlotte.lopez202@example.com,+1-307-555-6355,Jacksonville,FL,2023-04-03,1490.16,Pending
+CUST-1203,Mason,Rodriguez,mason.rodriguez203@example.com,+1-500-555-2929,Indianapolis,IN,2023-05-02,4817.25,Pending
+CUST-1204,Mason,Johnson,mason.johnson204@example.com,+1-809-555-1060,Denver,CO,2023-04-20,128.49,Active
+CUST-1205,Sophia,Smith,sophia.smith205@example.com,+1-934-555-4035,New York,NY,2023-09-28,2760.23,Active
+CUST-1206,Evelyn,Jones,evelyn.jones206@example.com,+1-774-555-3350,Columbus,OH,2023-01-18,295.07,Active
+CUST-1207,Emma,Taylor,emma.taylor207@example.com,+1-958-555-7930,Austin,TX,2023-08-22,2392.46,Pending
+CUST-1208,Ethan,Garcia,ethan.garcia208@example.com,+1-738-555-3503,Austin,TX,2023-03-20,1287.13,Pending
+CUST-1209,Harper,Lopez,harper.lopez209@example.com,+1-716-555-1110,Fort Worth,TX,2023-06-25,4143.17,Inactive
+CUST-1210,Mason,Wilson,mason.wilson210@example.com,+1-635-555-8262,Indianapolis,IN,2023-06-16,2689.1,Active
+CUST-1211,Emma,Smith,emma.smith211@example.com,+1-528-555-5587,Austin,TX,2023-04-17,3454.63,Inactive
+CUST-1212,Evelyn,Thomas,evelyn.thomas212@example.com,+1-829-555-8110,San Francisco,CA,2023-06-15,1417.43,Active
+CUST-1213,Amelia,Martinez,amelia.martinez213@example.com,+1-853-555-1986,Washington,DC,2023-01-16,3381.51,Pending
+CUST-1214,Evelyn,Jackson,evelyn.jackson214@example.com,+1-404-555-4191,Austin,TX,2023-09-24,2528.79,Inactive
+CUST-1215,Olivia,Martin,olivia.martin215@example.com,+1-612-555-1522,New York,NY,2023-06-19,1290.8,Active
+CUST-1216,Amelia,Miller,amelia.miller216@example.com,+1-677-555-2732,Philadelphia,PA,2023-01-26,840.58,Active
+CUST-1217,William,Thomas,william.thomas217@example.com,+1-759-555-4310,Charlotte,NC,2023-06-28,3541.2,Active
+CUST-1218,Sophia,Johnson,sophia.johnson218@example.com,+1-401-555-7780,Charlotte,NC,2023-12-07,2047.73,Active
+CUST-1219,Liam,Rodriguez,liam.rodriguez219@example.com,+1-746-555-6385,Philadelphia,PA,2023-09-18,3883.66,Active
+CUST-1220,Alexander,Taylor,alexander.taylor220@example.com,+1-470-555-6931,Columbus,OH,2023-05-12,434.77,Active
+CUST-1221,Sophia,Miller,sophia.miller221@example.com,+1-248-555-9310,Phoenix,AZ,2023-07-05,146.52,Active
+CUST-1222,Isabella,Thomas,isabella.thomas222@example.com,+1-282-555-4767,San Francisco,CA,2023-04-16,4688.94,Active
+CUST-1223,Isabella,Rodriguez,isabella.rodriguez223@example.com,+1-706-555-6132,Houston,TX,2023-08-14,688.98,Active
+CUST-1224,Harper,Martin,harper.martin224@example.com,+1-993-555-7472,Philadelphia,PA,2023-01-16,1931.41,Active
+CUST-1225,William,Miller,william.miller225@example.com,+1-780-555-7430,Houston,TX,2023-10-04,469.35,Pending
+CUST-1226,James,Rodriguez,james.rodriguez226@example.com,+1-988-555-3944,Seattle,WA,2023-08-10,3252.81,Active
+CUST-1227,Liam,Wilson,liam.wilson227@example.com,+1-727-555-5354,Indianapolis,IN,2023-06-08,4475.87,Active
+CUST-1228,Emma,Gonzalez,emma.gonzalez228@example.com,+1-793-555-7701,San Francisco,CA,2023-04-02,423.1,Active
+CUST-1229,Isabella,Gonzalez,isabella.gonzalez229@example.com,+1-992-555-5114,Charlotte,NC,2023-07-12,1452.82,Active
+CUST-1230,Ava,Smith,ava.smith230@example.com,+1-545-555-7872,New York,NY,2023-02-01,4367.29,Active
+CUST-1231,Liam,Thomas,liam.thomas231@example.com,+1-375-555-5033,San Francisco,CA,2023-02-21,4235.38,Pending
+CUST-1232,Mia,Brown,mia.brown232@example.com,+1-865-555-6842,Denver,CO,2023-04-06,2274.95,Active
+CUST-1233,Evelyn,Rodriguez,evelyn.rodriguez233@example.com,+1-205-555-5561,Charlotte,NC,2023-05-12,2790.95,Active
+CUST-1234,Charlotte,Jackson,charlotte.jackson234@example.com,+1-962-555-4506,Houston,TX,2023-08-06,3746.68,Pending
+CUST-1235,Harper,Martinez,harper.martinez235@example.com,+1-760-555-4732,San Antonio,TX,2023-04-28,1444.25,Inactive
+CUST-1236,William,Miller,william.miller236@example.com,+1-432-555-5546,San Jose,CA,2023-07-11,316.4,Pending
+CUST-1237,Charlotte,Jones,charlotte.jones237@example.com,+1-824-555-7106,Chicago,IL,2023-10-09,1332.32,Active
+CUST-1238,Sophia,Johnson,sophia.johnson238@example.com,+1-657-555-9002,San Antonio,TX,2023-05-11,1385.35,Active
+CUST-1239,Olivia,Taylor,olivia.taylor239@example.com,+1-355-555-8105,San Francisco,CA,2023-07-03,4334.45,Pending
+CUST-1240,William,Thomas,william.thomas240@example.com,+1-619-555-3969,Phoenix,AZ,2023-08-17,260.53,Inactive
+CUST-1241,William,Moore,william.moore241@example.com,+1-416-555-4504,Houston,TX,2023-12-02,1940.95,Active
+CUST-1242,Ethan,Brown,ethan.brown242@example.com,+1-304-555-7252,Jacksonville,FL,2023-11-20,677.85,Inactive
+CUST-1243,Ava,Jones,ava.jones243@example.com,+1-326-555-7233,Washington,DC,2023-11-27,4742.22,Pending
+CUST-1244,Lucas,Rodriguez,lucas.rodriguez244@example.com,+1-683-555-2243,Austin,TX,2023-07-11,3521.29,Inactive
+CUST-1245,Sophia,Martinez,sophia.martinez245@example.com,+1-326-555-7195,New York,NY,2023-07-19,1981.38,Inactive
+CUST-1246,Evelyn,Hernandez,evelyn.hernandez246@example.com,+1-852-555-6322,Phoenix,AZ,2023-07-12,2308.46,Pending
+CUST-1247,Lucas,Gonzalez,lucas.gonzalez247@example.com,+1-534-555-6389,Los Angeles,CA,2023-01-23,2264.6,Pending
+CUST-1248,Henry,Lopez,henry.lopez248@example.com,+1-543-555-6668,Fort Worth,TX,2023-01-21,3472.86,Active
+CUST-1249,William,Jackson,william.jackson249@example.com,+1-243-555-7200,San Francisco,CA,2023-07-01,238.49,Active
+CUST-1250,Emma,Johnson,emma.johnson250@example.com,+1-547-555-6935,Los Angeles,CA,2023-06-15,4837.44,Active
+CUST-1251,Emma,Miller,emma.miller251@example.com,+1-633-555-5622,Denver,CO,2023-02-04,3513.79,Active
+CUST-1252,Harper,Thomas,harper.thomas252@example.com,+1-245-555-5410,Seattle,WA,2023-05-28,4486.13,Active
+CUST-1253,Benjamin,Lopez,benjamin.lopez253@example.com,+1-988-555-7780,Jacksonville,FL,2023-06-18,3669.68,Pending
+CUST-1254,Isabella,Moore,isabella.moore254@example.com,+1-405-555-7555,San Antonio,TX,2023-11-26,4543.47,Inactive
+CUST-1255,Isabella,Rodriguez,isabella.rodriguez255@example.com,+1-381-555-6556,Seattle,WA,2023-04-03,58.07,Pending
+CUST-1256,Henry,Brown,henry.brown256@example.com,+1-496-555-6948,Columbus,OH,2023-10-16,3772.93,Active
+CUST-1257,Harper,Hernandez,harper.hernandez257@example.com,+1-681-555-8327,Columbus,OH,2023-09-23,2780.08,Active
+CUST-1258,Henry,Miller,henry.miller258@example.com,+1-697-555-7445,Charlotte,NC,2023-12-11,279.1,Pending
+CUST-1259,Alexander,Gonzalez,alexander.gonzalez259@example.com,+1-785-555-9392,San Antonio,TX,2023-07-14,4978.21,Active
+CUST-1260,Noah,Thomas,noah.thomas260@example.com,+1-982-555-4551,San Diego,CA,2023-11-06,2478.26,Pending
+CUST-1261,Mia,Rodriguez,mia.rodriguez261@example.com,+1-377-555-4749,Indianapolis,IN,2023-12-06,3487.91,Active
+CUST-1262,Noah,Jackson,noah.jackson262@example.com,+1-573-555-2079,San Antonio,TX,2023-06-14,1110.5,Active
+CUST-1263,Henry,Garcia,henry.garcia263@example.com,+1-232-555-9147,Indianapolis,IN,2023-02-04,1567.07,Active
+CUST-1264,Mason,Wilson,mason.wilson264@example.com,+1-938-555-5644,Phoenix,AZ,2023-08-04,1177.8,Pending
+CUST-1265,Ethan,Jackson,ethan.jackson265@example.com,+1-368-555-4024,Denver,CO,2023-01-23,1046.25,Pending
+CUST-1266,Lucas,Jones,lucas.jones266@example.com,+1-615-555-7608,Los Angeles,CA,2023-12-12,3696.37,Active
+CUST-1267,Lucas,Brown,lucas.brown267@example.com,+1-559-555-6866,Denver,CO,2023-07-09,640.19,Inactive
+CUST-1268,Alexander,Garcia,alexander.garcia268@example.com,+1-283-555-4359,Washington,DC,2023-01-25,3507.18,Active
+CUST-1269,Charlotte,Miller,charlotte.miller269@example.com,+1-420-555-3243,San Diego,CA,2023-03-16,4310.67,Active
+CUST-1270,Liam,Smith,liam.smith270@example.com,+1-942-555-3977,Fort Worth,TX,2023-02-28,3335.66,Pending
+CUST-1271,Mason,Taylor,mason.taylor271@example.com,+1-633-555-5029,San Francisco,CA,2023-11-09,3787.51,Active
+CUST-1272,Emma,Gonzalez,emma.gonzalez272@example.com,+1-759-555-9074,Indianapolis,IN,2023-10-20,2298.49,Active
+CUST-1273,Olivia,Johnson,olivia.johnson273@example.com,+1-562-555-8343,Indianapolis,IN,2023-10-20,1710.25,Inactive
+CUST-1274,Alexander,Taylor,alexander.taylor274@example.com,+1-915-555-8015,Austin,TX,2023-11-12,4600.87,Inactive
+CUST-1275,Mason,Moore,mason.moore275@example.com,+1-533-555-7637,San Francisco,CA,2023-01-23,3501.94,Inactive
+CUST-1276,Ethan,Rodriguez,ethan.rodriguez276@example.com,+1-942-555-9828,Dallas,TX,2023-01-16,2517.97,Active
+CUST-1277,Olivia,Martinez,olivia.martinez277@example.com,+1-373-555-3202,San Antonio,TX,2023-03-06,318.69,Active
+CUST-1278,Ethan,Jackson,ethan.jackson278@example.com,+1-536-555-7395,Columbus,OH,2023-09-03,1761.73,Pending
+CUST-1279,Charlotte,Martinez,charlotte.martinez279@example.com,+1-296-555-4581,Indianapolis,IN,2023-07-07,1082.35,Active
+CUST-1280,Amelia,Jackson,amelia.jackson280@example.com,+1-980-555-6573,Fort Worth,TX,2023-03-19,2195.51,Inactive
+CUST-1281,Ethan,Martinez,ethan.martinez281@example.com,+1-278-555-9919,Philadelphia,PA,2023-04-13,112.53,Active
+CUST-1282,Lucas,Martin,lucas.martin282@example.com,+1-412-555-1421,Denver,CO,2023-05-12,3638.96,Active
+CUST-1283,Isabella,Garcia,isabella.garcia283@example.com,+1-384-555-2585,Los Angeles,CA,2023-08-17,377.16,Inactive
+CUST-1284,Olivia,Wilson,olivia.wilson284@example.com,+1-458-555-7744,Phoenix,AZ,2023-11-10,88.34,Active
+CUST-1285,James,Brown,james.brown285@example.com,+1-378-555-7383,New York,NY,2023-06-13,805.86,Pending
+CUST-1286,William,Hernandez,william.hernandez286@example.com,+1-254-555-9197,San Francisco,CA,2023-01-18,4111.37,Active
+CUST-1287,Mia,Lopez,mia.lopez287@example.com,+1-657-555-4564,Dallas,TX,2023-12-14,4052.8,Active
+CUST-1288,Alexander,Williams,alexander.williams288@example.com,+1-434-555-4392,Chicago,IL,2023-11-12,4779.07,Active
+CUST-1289,Lucas,Jackson,lucas.jackson289@example.com,+1-783-555-2889,Denver,CO,2023-01-27,1976.8,Pending
+CUST-1290,Alexander,Smith,alexander.smith290@example.com,+1-775-555-2825,Fort Worth,TX,2023-12-04,2353.74,Active
+CUST-1291,Noah,Hernandez,noah.hernandez291@example.com,+1-772-555-3633,Washington,DC,2023-12-20,3595.48,Inactive
+CUST-1292,Amelia,Moore,amelia.moore292@example.com,+1-899-555-2243,New York,NY,2023-11-25,3103.98,Active
+CUST-1293,Ava,Williams,ava.williams293@example.com,+1-389-555-8614,Columbus,OH,2023-11-27,822.72,Active
+CUST-1294,Ethan,Moore,ethan.moore294@example.com,+1-644-555-6855,Phoenix,AZ,2023-09-12,4674.01,Active
+CUST-1295,Mason,Rodriguez,mason.rodriguez295@example.com,+1-435-555-5649,Indianapolis,IN,2023-05-28,4158.1,Inactive
+CUST-1296,Emma,Martinez,emma.martinez296@example.com,+1-646-555-2387,Columbus,OH,2023-05-25,3601.59,Inactive
+CUST-1297,Evelyn,Miller,evelyn.miller297@example.com,+1-270-555-6971,Phoenix,AZ,2023-08-04,3626.3,Inactive
+CUST-1298,Harper,Thomas,harper.thomas298@example.com,+1-628-555-3765,Washington,DC,2023-06-16,1037.9,Active
+CUST-1299,Isabella,Miller,isabella.miller299@example.com,+1-557-555-9178,Indianapolis,IN,2023-12-25,3335.37,Inactive
+CUST-1300,Ethan,Wilson,ethan.wilson300@example.com,+1-336-555-9998,Denver,CO,2023-05-22,1760.3,Pending
+CUST-1301,Mason,Martin,mason.martin301@example.com,+1-402-555-2492,Charlotte,NC,2023-02-23,1072.11,Inactive
+CUST-1302,Mia,Rodriguez,mia.rodriguez302@example.com,+1-991-555-6625,New York,NY,2023-03-19,2480.43,Pending
+CUST-1303,William,Thomas,william.thomas303@example.com,+1-370-555-8069,Chicago,IL,2023-10-10,4823.43,Pending
+CUST-1304,Mason,Miller,mason.miller304@example.com,+1-461-555-1319,Jacksonville,FL,2023-01-18,3795.09,Active
+CUST-1305,Noah,Gonzalez,noah.gonzalez305@example.com,+1-809-555-4199,Austin,TX,2023-06-10,3727.21,Pending
+CUST-1306,Amelia,Anderson,amelia.anderson306@example.com,+1-207-555-6141,Indianapolis,IN,2023-02-10,3997.91,Pending
+CUST-1307,Alexander,Garcia,alexander.garcia307@example.com,+1-676-555-7757,Houston,TX,2023-05-20,4098.83,Inactive
+CUST-1308,Liam,Jackson,liam.jackson308@example.com,+1-656-555-3103,Houston,TX,2023-03-18,4400.9,Active
+CUST-1309,Benjamin,Miller,benjamin.miller309@example.com,+1-863-555-5056,Phoenix,AZ,2023-04-18,529.96,Active
+CUST-1310,Mason,Garcia,mason.garcia310@example.com,+1-290-555-3167,Denver,CO,2023-05-04,3363.29,Pending
+CUST-1311,Lucas,Jackson,lucas.jackson311@example.com,+1-794-555-2855,Washington,DC,2023-08-04,1999.02,Active
+CUST-1312,Evelyn,Johnson,evelyn.johnson312@example.com,+1-460-555-5089,Dallas,TX,2023-07-24,738.82,Active
+CUST-1313,Mia,Wilson,mia.wilson313@example.com,+1-254-555-2041,Charlotte,NC,2023-04-19,3616.07,Active
+CUST-1314,Benjamin,Brown,benjamin.brown314@example.com,+1-220-555-5751,Dallas,TX,2023-12-14,2184.2,Pending
+CUST-1315,Liam,Wilson,liam.wilson315@example.com,+1-278-555-2743,Houston,TX,2023-08-05,2864.9,Active
+CUST-1316,Ava,Moore,ava.moore316@example.com,+1-510-555-9308,Columbus,OH,2023-11-23,1083.65,Pending
+CUST-1317,Charlotte,Hernandez,charlotte.hernandez317@example.com,+1-232-555-6928,Los Angeles,CA,2023-06-18,2583.5,Pending
+CUST-1318,Charlotte,Gonzalez,charlotte.gonzalez318@example.com,+1-548-555-2947,Dallas,TX,2023-03-25,2492.74,Active
+CUST-1319,Isabella,Brown,isabella.brown319@example.com,+1-651-555-9314,San Diego,CA,2023-09-06,3899.6,Active
+CUST-1320,Charlotte,Wilson,charlotte.wilson320@example.com,+1-242-555-6500,Philadelphia,PA,2023-05-07,2868.99,Active
+CUST-1321,Noah,Jones,noah.jones321@example.com,+1-285-555-4604,Charlotte,NC,2023-06-02,3107.37,Inactive
+CUST-1322,Benjamin,Garcia,benjamin.garcia322@example.com,+1-565-555-3473,San Diego,CA,2023-07-01,4700.04,Active
+CUST-1323,William,Smith,william.smith323@example.com,+1-408-555-7924,San Diego,CA,2023-09-04,3391.32,Active
+CUST-1324,Alexander,Smith,alexander.smith324@example.com,+1-207-555-9353,Seattle,WA,2023-08-09,932.1,Inactive
+CUST-1325,Lucas,Taylor,lucas.taylor325@example.com,+1-451-555-1030,Philadelphia,PA,2023-10-27,3694.7,Active
+CUST-1326,Liam,Miller,liam.miller326@example.com,+1-501-555-7457,Fort Worth,TX,2023-03-26,3321.55,Inactive
+CUST-1327,Emma,Wilson,emma.wilson327@example.com,+1-387-555-2659,Philadelphia,PA,2023-02-07,2175.22,Active
+CUST-1328,Mason,Rodriguez,mason.rodriguez328@example.com,+1-349-555-4616,San Antonio,TX,2023-05-22,1605.02,Pending
+CUST-1329,Isabella,Gonzalez,isabella.gonzalez329@example.com,+1-756-555-7636,Charlotte,NC,2023-10-08,1305.64,Inactive
+CUST-1330,William,Miller,william.miller330@example.com,+1-357-555-5765,Washington,DC,2023-07-25,325.41,Active
+CUST-1331,Henry,Davis,henry.davis331@example.com,+1-846-555-5384,Dallas,TX,2023-05-20,3455.8,Active
+CUST-1332,Olivia,Jones,olivia.jones332@example.com,+1-318-555-2768,Jacksonville,FL,2023-07-11,4444.94,Active
+CUST-1333,William,Miller,william.miller333@example.com,+1-843-555-3831,Columbus,OH,2023-08-04,2861.08,Pending
+CUST-1334,Emma,Jackson,emma.jackson334@example.com,+1-803-555-6906,Phoenix,AZ,2023-09-11,1870.36,Active
+CUST-1335,Alexander,Lopez,alexander.lopez335@example.com,+1-629-555-4077,Washington,DC,2023-02-11,4275.75,Active
+CUST-1336,Lucas,Martinez,lucas.martinez336@example.com,+1-496-555-6915,Indianapolis,IN,2023-05-28,1853.06,Pending
+CUST-1337,Sophia,Wilson,sophia.wilson337@example.com,+1-398-555-1039,Phoenix,AZ,2023-01-06,682.16,Active
+CUST-1338,Amelia,Martinez,amelia.martinez338@example.com,+1-769-555-9492,Washington,DC,2023-07-15,1373.88,Active
+CUST-1339,Emma,Martinez,emma.martinez339@example.com,+1-725-555-3144,Philadelphia,PA,2023-09-12,3978.51,Pending
+CUST-1340,Isabella,Rodriguez,isabella.rodriguez340@example.com,+1-658-555-6581,San Jose,CA,2023-12-23,987.26,Active
+CUST-1341,Amelia,Williams,amelia.williams341@example.com,+1-488-555-6161,Austin,TX,2023-04-09,3509.87,Pending
+CUST-1342,William,Martin,william.martin342@example.com,+1-360-555-4985,Los Angeles,CA,2023-08-04,3579.5,Inactive
+CUST-1343,Benjamin,Jones,benjamin.jones343@example.com,+1-716-555-3489,Seattle,WA,2023-07-05,4144.7,Active
+CUST-1344,Charlotte,Anderson,charlotte.anderson344@example.com,+1-594-555-1646,Austin,TX,2023-02-12,205.78,Pending
+CUST-1345,William,Martin,william.martin345@example.com,+1-323-555-7549,Dallas,TX,2023-01-14,3496.39,Active
+CUST-1346,Henry,Hernandez,henry.hernandez346@example.com,+1-972-555-7026,San Francisco,CA,2023-09-16,3307.71,Pending
+CUST-1347,Liam,Jones,liam.jones347@example.com,+1-944-555-7517,New York,NY,2023-04-13,1526.79,Active
+CUST-1348,Alexander,Johnson,alexander.johnson348@example.com,+1-526-555-2748,Charlotte,NC,2023-03-17,1368.49,Active
+CUST-1349,Amelia,Hernandez,amelia.hernandez349@example.com,+1-619-555-8044,Jacksonville,FL,2023-12-03,3654.75,Active
+CUST-1350,Olivia,Thomas,olivia.thomas350@example.com,+1-288-555-4712,Houston,TX,2023-09-24,4829.75,Inactive
+CUST-1351,Isabella,Martin,isabella.martin351@example.com,+1-547-555-6312,Indianapolis,IN,2023-01-22,4405.46,Inactive
+CUST-1352,Alexander,Gonzalez,alexander.gonzalez352@example.com,+1-584-555-4166,Seattle,WA,2023-01-17,4510.95,Inactive
+CUST-1353,Henry,Lopez,henry.lopez353@example.com,+1-839-555-2285,Columbus,OH,2023-05-02,1936.93,Active
+CUST-1354,Liam,Davis,liam.davis354@example.com,+1-375-555-2455,Charlotte,NC,2023-05-09,1175.6,Active
+CUST-1355,Lucas,Anderson,lucas.anderson355@example.com,+1-814-555-7016,Indianapolis,IN,2023-10-21,2509.33,Active
+CUST-1356,Amelia,Johnson,amelia.johnson356@example.com,+1-296-555-5251,Columbus,OH,2023-04-23,1900.75,Pending
+CUST-1357,Noah,Martin,noah.martin357@example.com,+1-986-555-9118,Jacksonville,FL,2023-05-20,2475.91,Active
+CUST-1358,Lucas,Rodriguez,lucas.rodriguez358@example.com,+1-309-555-7704,Fort Worth,TX,2023-11-02,2014.93,Active
+CUST-1359,Harper,Garcia,harper.garcia359@example.com,+1-562-555-3823,Indianapolis,IN,2023-12-25,3827.42,Inactive
+CUST-1360,Alexander,Thomas,alexander.thomas360@example.com,+1-604-555-2207,New York,NY,2023-12-13,2352.73,Pending
+CUST-1361,Mia,Anderson,mia.anderson361@example.com,+1-321-555-5988,Phoenix,AZ,2023-10-06,3328.02,Active
+CUST-1362,Ava,Thomas,ava.thomas362@example.com,+1-844-555-8001,San Diego,CA,2023-06-05,4515.63,Active
+CUST-1363,Isabella,Williams,isabella.williams363@example.com,+1-702-555-5970,San Jose,CA,2023-10-08,4919.01,Active
+CUST-1364,Ethan,Johnson,ethan.johnson364@example.com,+1-805-555-1234,Indianapolis,IN,2023-07-26,2045.96,Active
+CUST-1365,Henry,Taylor,henry.taylor365@example.com,+1-347-555-3676,Chicago,IL,2023-01-03,3074.97,Pending
+CUST-1366,Olivia,Davis,olivia.davis366@example.com,+1-841-555-2694,Dallas,TX,2023-06-20,3220.45,Active
+CUST-1367,Henry,Taylor,henry.taylor367@example.com,+1-986-555-2481,Dallas,TX,2023-09-01,3447.79,Pending
+CUST-1368,Benjamin,Taylor,benjamin.taylor368@example.com,+1-272-555-8288,Chicago,IL,2023-09-23,4221.89,Pending
+CUST-1369,Evelyn,Taylor,evelyn.taylor369@example.com,+1-975-555-2655,Chicago,IL,2023-09-06,3311.18,Pending
+CUST-1370,Henry,Jones,henry.jones370@example.com,+1-321-555-3899,San Diego,CA,2023-05-12,2159.5,Pending
+CUST-1371,Evelyn,Williams,evelyn.williams371@example.com,+1-409-555-1537,Fort Worth,TX,2023-05-07,2403.21,Active
+CUST-1372,Charlotte,Miller,charlotte.miller372@example.com,+1-661-555-3083,Fort Worth,TX,2023-04-28,224.09,Inactive
+CUST-1373,James,Brown,james.brown373@example.com,+1-345-555-7243,Washington,DC,2023-06-17,1793.06,Active
+CUST-1374,Sophia,Lopez,sophia.lopez374@example.com,+1-702-555-6688,New York,NY,2023-06-26,3385.51,Active
+CUST-1375,Noah,Smith,noah.smith375@example.com,+1-846-555-9080,Indianapolis,IN,2023-11-05,4875.14,Inactive
+CUST-1376,Evelyn,Smith,evelyn.smith376@example.com,+1-911-555-6171,Washington,DC,2023-11-27,4639.31,Active
+CUST-1377,Sophia,Williams,sophia.williams377@example.com,+1-218-555-6300,Columbus,OH,2023-07-13,1459.27,Active
+CUST-1378,Mia,Jackson,mia.jackson378@example.com,+1-988-555-5728,Denver,CO,2023-05-05,4852.57,Active
+CUST-1379,James,Lopez,james.lopez379@example.com,+1-817-555-1176,Los Angeles,CA,2023-03-01,1919.77,Inactive
+CUST-1380,Ava,Wilson,ava.wilson380@example.com,+1-400-555-6874,Houston,TX,2023-02-22,2088.92,Active
+CUST-1381,William,Anderson,william.anderson381@example.com,+1-814-555-2594,San Antonio,TX,2023-12-15,3799.7,Inactive
+CUST-1382,Evelyn,Lopez,evelyn.lopez382@example.com,+1-224-555-5277,San Jose,CA,2023-11-23,1046.38,Inactive
+CUST-1383,Liam,Anderson,liam.anderson383@example.com,+1-213-555-6669,Chicago,IL,2023-02-17,1221.88,Active
+CUST-1384,Mason,Johnson,mason.johnson384@example.com,+1-569-555-8624,Fort Worth,TX,2023-01-22,827.5,Pending
+CUST-1385,Olivia,Jackson,olivia.jackson385@example.com,+1-575-555-5672,Seattle,WA,2023-09-10,809.6,Inactive
+CUST-1386,Mason,Smith,mason.smith386@example.com,+1-631-555-3912,Indianapolis,IN,2023-07-16,4244.42,Active
+CUST-1387,Amelia,Taylor,amelia.taylor387@example.com,+1-930-555-6869,Indianapolis,IN,2023-05-15,474.55,Inactive
+CUST-1388,James,Taylor,james.taylor388@example.com,+1-694-555-8075,Columbus,OH,2023-04-25,2979.64,Active
+CUST-1389,William,Martinez,william.martinez389@example.com,+1-906-555-5761,Washington,DC,2023-11-16,3549.32,Inactive
+CUST-1390,Lucas,Davis,lucas.davis390@example.com,+1-547-555-5499,Seattle,WA,2023-11-14,2003.22,Active
+CUST-1391,Evelyn,Williams,evelyn.williams391@example.com,+1-628-555-2063,San Antonio,TX,2023-12-09,4045.16,Active
+CUST-1392,Olivia,Johnson,olivia.johnson392@example.com,+1-486-555-1091,Dallas,TX,2023-06-24,2745.29,Active
+CUST-1393,William,Martin,william.martin393@example.com,+1-630-555-8131,Seattle,WA,2023-04-26,829.54,Active
+CUST-1394,Mason,Martin,mason.martin394@example.com,+1-477-555-2200,Columbus,OH,2023-11-17,1768.58,Active
+CUST-1395,Emma,Thomas,emma.thomas395@example.com,+1-281-555-7143,New York,NY,2023-06-15,2176.22,Active
+CUST-1396,Liam,Miller,liam.miller396@example.com,+1-396-555-8338,Los Angeles,CA,2023-09-11,456.77,Pending
+CUST-1397,Ava,Davis,ava.davis397@example.com,+1-586-555-3796,Denver,CO,2023-05-07,4611.36,Active
+CUST-1398,Ava,Brown,ava.brown398@example.com,+1-892-555-3693,Jacksonville,FL,2023-05-08,3995.26,Inactive
+CUST-1399,Harper,Garcia,harper.garcia399@example.com,+1-783-555-3049,Houston,TX,2023-05-20,391.85,Active
+CUST-1400,Sophia,Brown,sophia.brown400@example.com,+1-542-555-2928,San Jose,CA,2023-01-27,1838.42,Active
+CUST-1401,Olivia,Taylor,olivia.taylor401@example.com,+1-542-555-4196,Fort Worth,TX,2023-02-19,684.58,Active
+CUST-1402,Evelyn,Johnson,evelyn.johnson402@example.com,+1-349-555-8923,Indianapolis,IN,2023-01-13,3842.49,Inactive
+CUST-1403,Henry,Martin,henry.martin403@example.com,+1-921-555-5028,Denver,CO,2023-09-09,129.08,Active
+CUST-1404,Emma,Moore,emma.moore404@example.com,+1-965-555-6453,San Antonio,TX,2023-08-27,1052.26,Pending
+CUST-1405,Ethan,Davis,ethan.davis405@example.com,+1-611-555-5566,San Diego,CA,2023-12-05,4559.12,Pending
+CUST-1406,Olivia,Lopez,olivia.lopez406@example.com,+1-717-555-3650,Fort Worth,TX,2023-10-07,823.66,Active
+CUST-1407,Amelia,Anderson,amelia.anderson407@example.com,+1-635-555-4249,Seattle,WA,2023-06-02,2646.55,Pending
+CUST-1408,Henry,Brown,henry.brown408@example.com,+1-705-555-4090,Seattle,WA,2023-05-09,3440.98,Inactive
+CUST-1409,Mason,Moore,mason.moore409@example.com,+1-953-555-1261,Washington,DC,2023-08-18,3662.03,Inactive
+CUST-1410,Ava,Davis,ava.davis410@example.com,+1-234-555-6788,Chicago,IL,2023-07-10,3016.37,Active
+CUST-1411,Noah,Hernandez,noah.hernandez411@example.com,+1-246-555-6326,Washington,DC,2023-03-19,4641.06,Inactive
+CUST-1412,Ethan,Williams,ethan.williams412@example.com,+1-947-555-6389,Denver,CO,2023-06-09,4408.71,Inactive
+CUST-1413,Mia,Martinez,mia.martinez413@example.com,+1-777-555-2413,Seattle,WA,2023-11-26,2821.49,Inactive
+CUST-1414,Alexander,Moore,alexander.moore414@example.com,+1-335-555-7609,San Francisco,CA,2023-01-23,4719.01,Active
+CUST-1415,Olivia,Gonzalez,olivia.gonzalez415@example.com,+1-284-555-6647,Denver,CO,2023-05-24,4828.26,Active
+CUST-1416,Ethan,Gonzalez,ethan.gonzalez416@example.com,+1-945-555-3882,San Francisco,CA,2023-08-19,420.23,Pending
+CUST-1417,Isabella,Moore,isabella.moore417@example.com,+1-347-555-1877,Washington,DC,2023-05-08,3309.45,Inactive
+CUST-1418,Amelia,Rodriguez,amelia.rodriguez418@example.com,+1-735-555-1116,Philadelphia,PA,2023-06-08,1436.07,Active
+CUST-1419,Ethan,Thomas,ethan.thomas419@example.com,+1-373-555-3984,San Jose,CA,2023-07-26,1728.34,Active
+CUST-1420,Isabella,Williams,isabella.williams420@example.com,+1-473-555-5839,San Diego,CA,2023-05-26,1566.91,Pending
+CUST-1421,Evelyn,Johnson,evelyn.johnson421@example.com,+1-281-555-2372,San Francisco,CA,2023-03-27,2860.3,Active
+CUST-1422,Benjamin,Johnson,benjamin.johnson422@example.com,+1-760-555-5527,Houston,TX,2023-02-12,3262.42,Pending
+CUST-1423,Amelia,Gonzalez,amelia.gonzalez423@example.com,+1-943-555-7310,Denver,CO,2023-08-13,3136.31,Active
+CUST-1424,Mason,Brown,mason.brown424@example.com,+1-282-555-3208,New York,NY,2023-12-28,2869.74,Inactive
+CUST-1425,Lucas,Williams,lucas.williams425@example.com,+1-298-555-2234,Phoenix,AZ,2023-03-22,2210.34,Active
+CUST-1426,Emma,Jackson,emma.jackson426@example.com,+1-858-555-5600,San Antonio,TX,2023-03-09,1985.62,Active
+CUST-1427,Evelyn,Hernandez,evelyn.hernandez427@example.com,+1-693-555-9244,Indianapolis,IN,2023-05-08,3597.8,Inactive
+CUST-1428,Mia,Martinez,mia.martinez428@example.com,+1-364-555-6607,San Jose,CA,2023-10-21,609.8,Active
+CUST-1429,Noah,Thomas,noah.thomas429@example.com,+1-677-555-3588,Dallas,TX,2023-07-01,3947.89,Pending
+CUST-1430,Evelyn,Davis,evelyn.davis430@example.com,+1-637-555-1064,Chicago,IL,2023-11-02,1291.84,Inactive
+CUST-1431,Isabella,Moore,isabella.moore431@example.com,+1-499-555-3649,San Diego,CA,2023-08-28,4679.69,Active
+CUST-1432,Olivia,Moore,olivia.moore432@example.com,+1-841-555-1380,Indianapolis,IN,2023-07-05,3437.12,Active
+CUST-1433,Liam,Martinez,liam.martinez433@example.com,+1-677-555-9972,San Antonio,TX,2023-04-03,435.76,Active
+CUST-1434,Liam,Anderson,liam.anderson434@example.com,+1-868-555-5270,Indianapolis,IN,2023-02-20,1089.96,Inactive
+CUST-1435,Liam,Rodriguez,liam.rodriguez435@example.com,+1-421-555-1508,Phoenix,AZ,2023-11-10,4550.64,Inactive
+CUST-1436,Alexander,Martin,alexander.martin436@example.com,+1-951-555-5827,Denver,CO,2023-09-25,2454.99,Active
+CUST-1437,Harper,Williams,harper.williams437@example.com,+1-781-555-9367,Seattle,WA,2023-07-22,3323.88,Active
+CUST-1438,Noah,Thomas,noah.thomas438@example.com,+1-281-555-5198,Fort Worth,TX,2023-04-07,1333.1,Inactive
+CUST-1439,Alexander,Moore,alexander.moore439@example.com,+1-622-555-3421,Jacksonville,FL,2023-11-18,1479.18,Pending
+CUST-1440,Benjamin,Miller,benjamin.miller440@example.com,+1-578-555-1380,San Francisco,CA,2023-11-09,4171.14,Inactive
+CUST-1441,Mason,Rodriguez,mason.rodriguez441@example.com,+1-282-555-4603,Los Angeles,CA,2023-01-12,714.49,Active
+CUST-1442,James,Rodriguez,james.rodriguez442@example.com,+1-650-555-5867,Dallas,TX,2023-10-26,3729.19,Pending
+CUST-1443,Amelia,Davis,amelia.davis443@example.com,+1-474-555-1222,Washington,DC,2023-07-07,2244.68,Active
+CUST-1444,Mason,Lopez,mason.lopez444@example.com,+1-864-555-3354,Los Angeles,CA,2023-05-26,3549.25,Active
+CUST-1445,Henry,Williams,henry.williams445@example.com,+1-871-555-6661,San Francisco,CA,2023-06-17,2340.27,Active
+CUST-1446,Alexander,Rodriguez,alexander.rodriguez446@example.com,+1-561-555-4998,Seattle,WA,2023-10-21,2069.67,Inactive
+CUST-1447,Ethan,Miller,ethan.miller447@example.com,+1-670-555-7476,Houston,TX,2023-01-12,616.84,Active
+CUST-1448,Charlotte,Miller,charlotte.miller448@example.com,+1-603-555-8721,Philadelphia,PA,2023-01-10,4175.84,Active
+CUST-1449,Sophia,Anderson,sophia.anderson449@example.com,+1-960-555-8394,Seattle,WA,2023-05-12,1589.34,Active
+CUST-1450,Evelyn,Smith,evelyn.smith450@example.com,+1-717-555-8777,San Francisco,CA,2023-04-10,3063.94,Inactive
+CUST-1451,Sophia,Johnson,sophia.johnson451@example.com,+1-967-555-4810,Fort Worth,TX,2023-11-24,3561.2,Inactive
+CUST-1452,Benjamin,Garcia,benjamin.garcia452@example.com,+1-605-555-5857,Indianapolis,IN,2023-02-08,1365.3,Pending
+CUST-1453,Noah,Martin,noah.martin453@example.com,+1-864-555-1268,Chicago,IL,2023-08-16,2785.53,Active
+CUST-1454,Sophia,Smith,sophia.smith454@example.com,+1-651-555-6720,Columbus,OH,2023-08-24,2995.85,Pending
+CUST-1455,Ava,Thomas,ava.thomas455@example.com,+1-249-555-1472,Jacksonville,FL,2023-04-09,2380.54,Pending
+CUST-1456,Ava,Rodriguez,ava.rodriguez456@example.com,+1-463-555-1069,Jacksonville,FL,2023-12-16,2277.75,Pending
+CUST-1457,Ava,Hernandez,ava.hernandez457@example.com,+1-504-555-3113,Denver,CO,2023-12-13,4733.03,Active
+CUST-1458,Olivia,Martin,olivia.martin458@example.com,+1-227-555-4034,Columbus,OH,2023-02-01,4039.74,Pending
+CUST-1459,Benjamin,Jones,benjamin.jones459@example.com,+1-216-555-6381,Los Angeles,CA,2023-08-27,696.77,Active
+CUST-1460,Liam,Garcia,liam.garcia460@example.com,+1-325-555-8379,Columbus,OH,2023-03-09,3527.61,Inactive
+CUST-1461,Olivia,Hernandez,olivia.hernandez461@example.com,+1-607-555-2443,Austin,TX,2023-09-22,2890.78,Active
+CUST-1462,Isabella,Jones,isabella.jones462@example.com,+1-680-555-4053,Columbus,OH,2023-08-17,4870.02,Pending
+CUST-1463,Isabella,Thomas,isabella.thomas463@example.com,+1-869-555-8797,Charlotte,NC,2023-09-04,2598.92,Active
+CUST-1464,Ethan,Brown,ethan.brown464@example.com,+1-796-555-5400,Austin,TX,2023-06-16,111.13,Active
+CUST-1465,Henry,Wilson,henry.wilson465@example.com,+1-915-555-4407,Denver,CO,2023-08-01,3630.62,Pending
+CUST-1466,Benjamin,Martin,benjamin.martin466@example.com,+1-925-555-5446,Jacksonville,FL,2023-03-16,4110.62,Active
+CUST-1467,Harper,Garcia,harper.garcia467@example.com,+1-238-555-6569,Seattle,WA,2023-06-02,1893.96,Active
+CUST-1468,Mia,Moore,mia.moore468@example.com,+1-914-555-6029,Phoenix,AZ,2023-01-07,3144.66,Active
+CUST-1469,Alexander,Jackson,alexander.jackson469@example.com,+1-382-555-7365,Washington,DC,2023-11-26,2973.04,Active
+CUST-1470,James,Jones,james.jones470@example.com,+1-444-555-7262,Fort Worth,TX,2023-02-02,4616.08,Active
+CUST-1471,Ava,Lopez,ava.lopez471@example.com,+1-755-555-9108,Jacksonville,FL,2023-11-07,352.81,Active
+CUST-1472,Henry,Rodriguez,henry.rodriguez472@example.com,+1-244-555-8902,Philadelphia,PA,2023-04-03,3198.92,Active
+CUST-1473,Liam,Anderson,liam.anderson473@example.com,+1-662-555-3568,Indianapolis,IN,2023-06-27,2564.99,Inactive
+CUST-1474,Benjamin,Miller,benjamin.miller474@example.com,+1-789-555-4119,Dallas,TX,2023-09-19,3700.56,Active
+CUST-1475,Alexander,Davis,alexander.davis475@example.com,+1-329-555-2387,Chicago,IL,2023-03-20,1709.07,Active
+CUST-1476,William,Anderson,william.anderson476@example.com,+1-614-555-3279,Chicago,IL,2023-03-02,1217.6,Active
+CUST-1477,William,Lopez,william.lopez477@example.com,+1-446-555-2360,Columbus,OH,2023-08-02,1869.16,Inactive
+CUST-1478,Ethan,Wilson,ethan.wilson478@example.com,+1-992-555-6120,Columbus,OH,2023-08-22,3913.45,Active
+CUST-1479,Liam,Brown,liam.brown479@example.com,+1-712-555-9043,Dallas,TX,2023-06-05,2818.24,Active
+CUST-1480,Sophia,Miller,sophia.miller480@example.com,+1-436-555-9551,Denver,CO,2023-10-06,4078.41,Pending
+CUST-1481,Isabella,Anderson,isabella.anderson481@example.com,+1-448-555-7604,Phoenix,AZ,2023-01-12,2097.99,Pending
+CUST-1482,Olivia,Thomas,olivia.thomas482@example.com,+1-496-555-5956,New York,NY,2023-04-12,741.91,Active
+CUST-1483,Charlotte,Davis,charlotte.davis483@example.com,+1-896-555-1767,Houston,TX,2023-03-04,2792.9,Active
+CUST-1484,Alexander,Lopez,alexander.lopez484@example.com,+1-396-555-3909,Los Angeles,CA,2023-01-27,4052.46,Active
+CUST-1485,Harper,Jackson,harper.jackson485@example.com,+1-678-555-4654,San Francisco,CA,2023-04-22,4164.54,Inactive
+CUST-1486,Olivia,Martinez,olivia.martinez486@example.com,+1-781-555-7234,Philadelphia,PA,2023-03-04,3074.12,Inactive
+CUST-1487,Mia,Davis,mia.davis487@example.com,+1-853-555-4651,Philadelphia,PA,2023-12-22,683.48,Inactive
+CUST-1488,Alexander,Lopez,alexander.lopez488@example.com,+1-201-555-8201,Columbus,OH,2023-12-07,4312.53,Active
+CUST-1489,Amelia,Rodriguez,amelia.rodriguez489@example.com,+1-743-555-9120,Philadelphia,PA,2023-06-27,3751.44,Inactive
+CUST-1490,Henry,Thomas,henry.thomas490@example.com,+1-618-555-3255,Columbus,OH,2023-12-18,262.63,Active
+CUST-1491,Lucas,Rodriguez,lucas.rodriguez491@example.com,+1-587-555-6018,Washington,DC,2023-08-20,788.75,Pending
+CUST-1492,James,Garcia,james.garcia492@example.com,+1-962-555-2236,Charlotte,NC,2023-10-18,4463.54,Inactive
+CUST-1493,Ava,Jackson,ava.jackson493@example.com,+1-888-555-6045,New York,NY,2023-07-02,261.6,Pending
+CUST-1494,Isabella,Miller,isabella.miller494@example.com,+1-700-555-3847,San Antonio,TX,2023-06-28,3054.41,Inactive
+CUST-1495,Mia,Hernandez,mia.hernandez495@example.com,+1-876-555-8851,Houston,TX,2023-02-17,2145.18,Active
+CUST-1496,Ava,Anderson,ava.anderson496@example.com,+1-467-555-2625,San Diego,CA,2023-09-09,1234.57,Active
+CUST-1497,Alexander,Brown,alexander.brown497@example.com,+1-497-555-2983,Dallas,TX,2023-09-27,1977.13,Pending
+CUST-1498,Noah,Garcia,noah.garcia498@example.com,+1-785-555-6137,San Antonio,TX,2023-05-26,3652.03,Active
+CUST-1499,Emma,Miller,emma.miller499@example.com,+1-413-555-3412,Charlotte,NC,2023-12-22,3013.51,Active
+CUST-1500,Henry,Martin,henry.martin500@example.com,+1-357-555-3951,Jacksonville,FL,2023-06-25,1613.44,Active
+CUST-1501,Charlotte,Johnson,charlotte.johnson501@example.com,+1-333-555-5721,Austin,TX,2023-11-19,323.69,Active
+CUST-1502,Mason,Anderson,mason.anderson502@example.com,+1-561-555-6511,Chicago,IL,2023-01-05,3941.61,Active
+CUST-1503,Evelyn,Lopez,evelyn.lopez503@example.com,+1-874-555-9689,Indianapolis,IN,2023-01-10,4933.32,Active
+CUST-1504,Noah,Brown,noah.brown504@example.com,+1-521-555-6504,New York,NY,2023-02-17,3154.45,Inactive
+CUST-1505,Harper,Brown,harper.brown505@example.com,+1-491-555-4498,New York,NY,2023-02-13,3947.47,Active
+CUST-1506,Liam,Thomas,liam.thomas506@example.com,+1-822-555-8616,San Antonio,TX,2023-07-06,513.38,Active
+CUST-1507,Sophia,Gonzalez,sophia.gonzalez507@example.com,+1-385-555-2540,San Diego,CA,2023-05-26,3183.86,Inactive
+CUST-1508,James,Smith,james.smith508@example.com,+1-359-555-4374,Dallas,TX,2023-10-09,2274.83,Pending
+CUST-1509,Charlotte,Martin,charlotte.martin509@example.com,+1-712-555-9156,Denver,CO,2023-09-16,158.62,Active
+CUST-1510,Mia,Jackson,mia.jackson510@example.com,+1-816-555-8853,Charlotte,NC,2023-07-20,1490.55,Pending
+CUST-1511,Mia,Anderson,mia.anderson511@example.com,+1-768-555-1021,Fort Worth,TX,2023-05-21,4537.74,Active
+CUST-1512,Charlotte,Jones,charlotte.jones512@example.com,+1-765-555-8317,Denver,CO,2023-08-19,4101.96,Active
+CUST-1513,James,Moore,james.moore513@example.com,+1-968-555-3676,Houston,TX,2023-12-07,1009.21,Active
+CUST-1514,Olivia,Jones,olivia.jones514@example.com,+1-638-555-4480,Fort Worth,TX,2023-07-24,998.57,Active
+CUST-1515,Mia,Anderson,mia.anderson515@example.com,+1-720-555-6955,San Francisco,CA,2023-02-27,3884.43,Inactive
+CUST-1516,William,Hernandez,william.hernandez516@example.com,+1-748-555-4524,Phoenix,AZ,2023-11-14,3435.83,Active
+CUST-1517,James,Moore,james.moore517@example.com,+1-493-555-7074,Chicago,IL,2023-07-10,2037.88,Inactive
+CUST-1518,Mia,Smith,mia.smith518@example.com,+1-898-555-7309,Chicago,IL,2023-12-17,329.27,Inactive
+CUST-1519,Emma,Smith,emma.smith519@example.com,+1-544-555-4579,San Jose,CA,2023-01-19,303.53,Inactive
+CUST-1520,Mason,Rodriguez,mason.rodriguez520@example.com,+1-540-555-3339,Seattle,WA,2023-06-14,1361.49,Active
+CUST-1521,Mia,Hernandez,mia.hernandez521@example.com,+1-837-555-6338,Columbus,OH,2023-04-08,470.1,Pending
+CUST-1522,Ethan,Thomas,ethan.thomas522@example.com,+1-372-555-4383,Fort Worth,TX,2023-07-02,4923.08,Active
+CUST-1523,Mason,Williams,mason.williams523@example.com,+1-380-555-7958,Jacksonville,FL,2023-06-13,2019.66,Active
+CUST-1524,Amelia,Davis,amelia.davis524@example.com,+1-973-555-1911,Los Angeles,CA,2023-11-27,81.66,Active
+CUST-1525,Liam,Lopez,liam.lopez525@example.com,+1-657-555-5155,Dallas,TX,2023-02-11,1025.5,Pending
+CUST-1526,Liam,Johnson,liam.johnson526@example.com,+1-660-555-6776,San Diego,CA,2023-08-01,4549.5,Active
+CUST-1527,Harper,Garcia,harper.garcia527@example.com,+1-987-555-2226,Seattle,WA,2023-04-08,4533.33,Active
+CUST-1528,Sophia,Rodriguez,sophia.rodriguez528@example.com,+1-573-555-2410,Los Angeles,CA,2023-08-18,2677.56,Inactive
+CUST-1529,William,Gonzalez,william.gonzalez529@example.com,+1-877-555-8273,Houston,TX,2023-12-18,1604.14,Pending
+CUST-1530,Evelyn,Wilson,evelyn.wilson530@example.com,+1-895-555-7982,New York,NY,2023-03-02,2369.64,Active
+CUST-1531,Liam,Williams,liam.williams531@example.com,+1-503-555-3424,Fort Worth,TX,2023-06-23,136.94,Inactive
+CUST-1532,Evelyn,Smith,evelyn.smith532@example.com,+1-489-555-4320,Los Angeles,CA,2023-04-17,4488.44,Inactive
+CUST-1533,Mason,Gonzalez,mason.gonzalez533@example.com,+1-648-555-4572,Houston,TX,2023-11-01,83.33,Inactive
+CUST-1534,Evelyn,Jackson,evelyn.jackson534@example.com,+1-499-555-4052,Dallas,TX,2023-11-12,2614.1,Active
+CUST-1535,Mia,Wilson,mia.wilson535@example.com,+1-995-555-9525,Denver,CO,2023-03-16,3171.96,Pending
+CUST-1536,Mia,Hernandez,mia.hernandez536@example.com,+1-449-555-5308,Denver,CO,2023-10-12,2493.49,Active
+CUST-1537,Mason,Davis,mason.davis537@example.com,+1-247-555-7267,San Antonio,TX,2023-05-24,344.79,Pending
+CUST-1538,Ava,Martin,ava.martin538@example.com,+1-557-555-7188,Austin,TX,2023-06-19,298.03,Active
+CUST-1539,William,Williams,william.williams539@example.com,+1-520-555-9946,Seattle,WA,2023-03-09,4853.23,Active
+CUST-1540,Evelyn,Wilson,evelyn.wilson540@example.com,+1-614-555-8416,Columbus,OH,2023-06-22,3017.64,Active
+CUST-1541,James,Jones,james.jones541@example.com,+1-380-555-3562,Los Angeles,CA,2023-04-22,4568.34,Active
+CUST-1542,Amelia,Jackson,amelia.jackson542@example.com,+1-974-555-6521,Indianapolis,IN,2023-12-21,1375.0,Active
+CUST-1543,Amelia,Moore,amelia.moore543@example.com,+1-905-555-6090,Denver,CO,2023-05-23,4879.79,Active
+CUST-1544,Benjamin,Moore,benjamin.moore544@example.com,+1-915-555-5613,Seattle,WA,2023-10-13,615.6,Active
+CUST-1545,Benjamin,Williams,benjamin.williams545@example.com,+1-803-555-1277,Seattle,WA,2023-08-21,2080.43,Pending
+CUST-1546,Isabella,Martinez,isabella.martinez546@example.com,+1-990-555-9660,Charlotte,NC,2023-09-11,1703.17,Active
+CUST-1547,Noah,Taylor,noah.taylor547@example.com,+1-983-555-2385,Charlotte,NC,2023-09-19,3727.58,Pending
+CUST-1548,Liam,Brown,liam.brown548@example.com,+1-323-555-4309,Chicago,IL,2023-01-07,3014.08,Active
+CUST-1549,Amelia,Taylor,amelia.taylor549@example.com,+1-689-555-9787,Los Angeles,CA,2023-05-24,1782.88,Active
+CUST-1550,Henry,Moore,henry.moore550@example.com,+1-275-555-8067,Philadelphia,PA,2023-05-01,1590.96,Active
+CUST-1551,Isabella,Anderson,isabella.anderson551@example.com,+1-239-555-3710,Columbus,OH,2023-07-25,2944.43,Active
+CUST-1552,Henry,Moore,henry.moore552@example.com,+1-707-555-7457,Los Angeles,CA,2023-09-04,2300.55,Active
+CUST-1553,Noah,Thomas,noah.thomas553@example.com,+1-731-555-3135,Denver,CO,2023-03-11,2200.84,Pending
+CUST-1554,James,Smith,james.smith554@example.com,+1-412-555-9468,Charlotte,NC,2023-07-23,1695.67,Active
+CUST-1555,Lucas,Gonzalez,lucas.gonzalez555@example.com,+1-966-555-2965,San Antonio,TX,2023-05-21,2216.81,Active
+CUST-1556,Isabella,Gonzalez,isabella.gonzalez556@example.com,+1-493-555-4684,Jacksonville,FL,2023-10-01,3179.59,Active
+CUST-1557,Lucas,Anderson,lucas.anderson557@example.com,+1-663-555-2014,Houston,TX,2023-10-03,1028.66,Active
+CUST-1558,Olivia,Thomas,olivia.thomas558@example.com,+1-264-555-9327,Seattle,WA,2023-08-19,2971.2,Pending
+CUST-1559,Olivia,Jackson,olivia.jackson559@example.com,+1-895-555-2516,Charlotte,NC,2023-01-16,3730.52,Inactive
+CUST-1560,Isabella,Johnson,isabella.johnson560@example.com,+1-732-555-9724,Columbus,OH,2023-03-24,945.37,Pending
+CUST-1561,Mason,Gonzalez,mason.gonzalez561@example.com,+1-756-555-2765,Denver,CO,2023-12-03,3428.25,Active
+CUST-1562,Evelyn,Hernandez,evelyn.hernandez562@example.com,+1-991-555-5890,San Diego,CA,2023-11-19,3646.61,Inactive
+CUST-1563,Liam,Johnson,liam.johnson563@example.com,+1-730-555-8372,Philadelphia,PA,2023-06-22,3619.56,Inactive
+CUST-1564,Charlotte,Martin,charlotte.martin564@example.com,+1-352-555-7676,Houston,TX,2023-05-25,3530.81,Active
+CUST-1565,Harper,Miller,harper.miller565@example.com,+1-771-555-8458,Houston,TX,2023-09-22,566.75,Active
+CUST-1566,Noah,Taylor,noah.taylor566@example.com,+1-298-555-4118,San Diego,CA,2023-09-21,3266.84,Inactive
+CUST-1567,Amelia,Johnson,amelia.johnson567@example.com,+1-757-555-8224,Houston,TX,2023-08-23,697.15,Inactive
+CUST-1568,Noah,Garcia,noah.garcia568@example.com,+1-685-555-2015,Denver,CO,2023-08-09,2329.09,Active
+CUST-1569,Charlotte,Smith,charlotte.smith569@example.com,+1-882-555-3429,Jacksonville,FL,2023-01-08,1602.56,Active
+CUST-1570,Isabella,Wilson,isabella.wilson570@example.com,+1-357-555-8157,Fort Worth,TX,2023-11-24,1729.1,Active
+CUST-1571,Mia,Wilson,mia.wilson571@example.com,+1-809-555-4583,San Antonio,TX,2023-04-24,458.68,Active
+CUST-1572,Amelia,Miller,amelia.miller572@example.com,+1-677-555-9157,Chicago,IL,2023-07-01,4676.15,Active
+CUST-1573,Sophia,Thomas,sophia.thomas573@example.com,+1-566-555-3170,Austin,TX,2023-04-07,4632.9,Active
+CUST-1574,Charlotte,Garcia,charlotte.garcia574@example.com,+1-475-555-2017,New York,NY,2023-08-26,3216.06,Active
+CUST-1575,Noah,Garcia,noah.garcia575@example.com,+1-614-555-5332,Austin,TX,2023-05-08,571.58,Active
+CUST-1576,Henry,Anderson,henry.anderson576@example.com,+1-781-555-7942,Jacksonville,FL,2023-09-01,4241.04,Active
+CUST-1577,James,Davis,james.davis577@example.com,+1-243-555-8622,San Diego,CA,2023-10-07,1735.25,Inactive
+CUST-1578,Evelyn,Jackson,evelyn.jackson578@example.com,+1-948-555-8038,Chicago,IL,2023-02-24,2676.02,Active
+CUST-1579,Liam,Miller,liam.miller579@example.com,+1-956-555-2667,Fort Worth,TX,2023-06-24,4077.41,Pending
+CUST-1580,Sophia,Gonzalez,sophia.gonzalez580@example.com,+1-376-555-6925,Dallas,TX,2023-02-14,4756.94,Active
+CUST-1581,Olivia,Martinez,olivia.martinez581@example.com,+1-763-555-2688,Los Angeles,CA,2023-11-08,3363.38,Active
+CUST-1582,Henry,Hernandez,henry.hernandez582@example.com,+1-672-555-6801,Houston,TX,2023-06-22,2001.94,Active
+CUST-1583,William,Moore,william.moore583@example.com,+1-628-555-9008,Washington,DC,2023-11-19,3321.6,Active
+CUST-1584,Sophia,Wilson,sophia.wilson584@example.com,+1-699-555-6475,Los Angeles,CA,2023-08-08,4197.51,Active
+CUST-1585,Liam,Jackson,liam.jackson585@example.com,+1-973-555-8453,San Francisco,CA,2023-02-08,4043.16,Pending
+CUST-1586,Liam,Taylor,liam.taylor586@example.com,+1-677-555-7064,Charlotte,NC,2023-11-02,566.33,Pending
+CUST-1587,Benjamin,Gonzalez,benjamin.gonzalez587@example.com,+1-785-555-7243,Fort Worth,TX,2023-06-21,4914.75,Pending
+CUST-1588,James,Jackson,james.jackson588@example.com,+1-701-555-6403,Chicago,IL,2023-05-15,1880.7,Active
+CUST-1589,Isabella,Hernandez,isabella.hernandez589@example.com,+1-654-555-5369,San Antonio,TX,2023-01-17,992.15,Active
+CUST-1590,Henry,Garcia,henry.garcia590@example.com,+1-783-555-1408,Washington,DC,2023-07-19,843.22,Inactive
+CUST-1591,Sophia,Smith,sophia.smith591@example.com,+1-407-555-1622,New York,NY,2023-06-18,4148.69,Active
+CUST-1592,Lucas,Hernandez,lucas.hernandez592@example.com,+1-203-555-7985,Seattle,WA,2023-03-04,61.76,Inactive
+CUST-1593,Charlotte,Jones,charlotte.jones593@example.com,+1-925-555-9459,Denver,CO,2023-04-17,3949.71,Pending
+CUST-1594,Mason,Davis,mason.davis594@example.com,+1-556-555-1952,Austin,TX,2023-12-11,3201.25,Pending
+CUST-1595,Noah,Brown,noah.brown595@example.com,+1-215-555-4867,Washington,DC,2023-03-14,342.55,Active
+CUST-1596,Harper,Wilson,harper.wilson596@example.com,+1-618-555-3596,San Jose,CA,2023-06-17,2571.69,Active
+CUST-1597,Ethan,Gonzalez,ethan.gonzalez597@example.com,+1-926-555-7615,Los Angeles,CA,2023-06-21,3808.55,Pending
+CUST-1598,Amelia,Garcia,amelia.garcia598@example.com,+1-380-555-2792,Charlotte,NC,2023-01-19,2170.87,Inactive
+CUST-1599,Benjamin,Gonzalez,benjamin.gonzalez599@example.com,+1-880-555-3199,San Francisco,CA,2023-07-22,2149.41,Active
+CUST-1600,Mia,Brown,mia.brown600@example.com,+1-452-555-1861,Austin,TX,2023-04-22,1848.67,Active
+CUST-1601,William,Brown,william.brown601@example.com,+1-631-555-6718,Austin,TX,2023-11-13,499.71,Active
+CUST-1602,Harper,Anderson,harper.anderson602@example.com,+1-341-555-6855,Denver,CO,2023-02-05,3966.21,Inactive
+CUST-1603,Liam,Taylor,liam.taylor603@example.com,+1-278-555-5777,Los Angeles,CA,2023-07-06,597.7,Active
+CUST-1604,Sophia,Anderson,sophia.anderson604@example.com,+1-237-555-5741,Chicago,IL,2023-07-09,2563.85,Inactive
+CUST-1605,Emma,Williams,emma.williams605@example.com,+1-377-555-9359,Austin,TX,2023-04-10,4737.8,Pending
+CUST-1606,Harper,Jackson,harper.jackson606@example.com,+1-446-555-4204,Charlotte,NC,2023-02-08,115.05,Pending
+CUST-1607,Sophia,Gonzalez,sophia.gonzalez607@example.com,+1-283-555-1273,Indianapolis,IN,2023-02-09,3315.07,Inactive
+CUST-1608,Olivia,Thomas,olivia.thomas608@example.com,+1-322-555-6467,San Diego,CA,2023-06-23,3991.46,Inactive
+CUST-1609,Benjamin,Jones,benjamin.jones609@example.com,+1-643-555-2934,Austin,TX,2023-06-17,1651.01,Active
+CUST-1610,James,Gonzalez,james.gonzalez610@example.com,+1-547-555-8357,Dallas,TX,2023-02-24,4214.93,Active
+CUST-1611,Benjamin,Jones,benjamin.jones611@example.com,+1-913-555-3458,Denver,CO,2023-03-13,4323.79,Inactive
+CUST-1612,Ava,Smith,ava.smith612@example.com,+1-213-555-7149,Seattle,WA,2023-12-17,939.31,Active
+CUST-1613,James,Moore,james.moore613@example.com,+1-805-555-6785,Charlotte,NC,2023-08-09,4329.75,Active
+CUST-1614,Sophia,Gonzalez,sophia.gonzalez614@example.com,+1-968-555-9381,Columbus,OH,2023-10-16,446.33,Active
+CUST-1615,Harper,Martin,harper.martin615@example.com,+1-304-555-1869,Washington,DC,2023-11-22,409.29,Pending
+CUST-1616,Amelia,Garcia,amelia.garcia616@example.com,+1-335-555-2975,Jacksonville,FL,2023-07-23,4716.29,Pending
+CUST-1617,Charlotte,Taylor,charlotte.taylor617@example.com,+1-532-555-1755,Los Angeles,CA,2023-09-23,3209.14,Active
+CUST-1618,Ava,Martin,ava.martin618@example.com,+1-471-555-1486,San Antonio,TX,2023-07-12,1940.33,Active
+CUST-1619,Ethan,Garcia,ethan.garcia619@example.com,+1-235-555-7619,Philadelphia,PA,2023-10-23,4608.33,Active
+CUST-1620,Liam,Moore,liam.moore620@example.com,+1-779-555-3227,Denver,CO,2023-03-18,190.84,Active
+CUST-1621,Emma,Jackson,emma.jackson621@example.com,+1-461-555-1723,Phoenix,AZ,2023-05-21,2876.73,Active
+CUST-1622,Isabella,Johnson,isabella.johnson622@example.com,+1-577-555-6895,Indianapolis,IN,2023-06-14,4227.52,Active
+CUST-1623,James,Smith,james.smith623@example.com,+1-572-555-5344,Dallas,TX,2023-07-20,1789.39,Active
+CUST-1624,Charlotte,Thomas,charlotte.thomas624@example.com,+1-327-555-4474,Washington,DC,2023-12-24,1362.56,Active
+CUST-1625,Mason,Gonzalez,mason.gonzalez625@example.com,+1-746-555-6071,Washington,DC,2023-06-15,396.7,Active
+CUST-1626,Benjamin,Brown,benjamin.brown626@example.com,+1-972-555-3456,Houston,TX,2023-09-12,2360.21,Active
+CUST-1627,Sophia,Smith,sophia.smith627@example.com,+1-419-555-7020,Denver,CO,2023-06-11,737.47,Active
+CUST-1628,James,Taylor,james.taylor628@example.com,+1-574-555-5401,Austin,TX,2023-08-26,1108.84,Active
+CUST-1629,Emma,Johnson,emma.johnson629@example.com,+1-538-555-5292,Houston,TX,2023-12-05,182.17,Active
+CUST-1630,Mia,Smith,mia.smith630@example.com,+1-868-555-9004,San Jose,CA,2023-06-26,4408.29,Active
+CUST-1631,Olivia,Martinez,olivia.martinez631@example.com,+1-745-555-2220,Dallas,TX,2023-05-02,3139.09,Inactive
+CUST-1632,William,Williams,william.williams632@example.com,+1-369-555-1606,Austin,TX,2023-04-12,4725.93,Active
+CUST-1633,Evelyn,Thomas,evelyn.thomas633@example.com,+1-849-555-2522,Los Angeles,CA,2023-11-24,1400.83,Active
+CUST-1634,Amelia,Gonzalez,amelia.gonzalez634@example.com,+1-777-555-7031,Seattle,WA,2023-02-08,1848.84,Active
+CUST-1635,Harper,Garcia,harper.garcia635@example.com,+1-979-555-6861,Columbus,OH,2023-08-13,3000.64,Active
+CUST-1636,William,Jones,william.jones636@example.com,+1-499-555-9661,Phoenix,AZ,2023-02-12,2088.18,Active
+CUST-1637,Ava,Martin,ava.martin637@example.com,+1-277-555-8561,Los Angeles,CA,2023-02-05,2333.38,Active
+CUST-1638,Liam,Smith,liam.smith638@example.com,+1-655-555-3601,Seattle,WA,2023-03-27,2166.57,Active
+CUST-1639,Ethan,Brown,ethan.brown639@example.com,+1-509-555-2311,San Francisco,CA,2023-08-06,69.78,Pending
+CUST-1640,Sophia,Brown,sophia.brown640@example.com,+1-275-555-6943,San Francisco,CA,2023-09-17,2746.7,Active
+CUST-1641,Henry,Lopez,henry.lopez641@example.com,+1-414-555-5830,Charlotte,NC,2023-06-16,1990.26,Inactive
+CUST-1642,Liam,Moore,liam.moore642@example.com,+1-200-555-2346,San Antonio,TX,2023-02-18,1305.71,Active
+CUST-1643,Charlotte,Gonzalez,charlotte.gonzalez643@example.com,+1-362-555-5764,Jacksonville,FL,2023-10-20,1191.01,Active
+CUST-1644,Henry,Martinez,henry.martinez644@example.com,+1-972-555-7692,Denver,CO,2023-10-24,2575.92,Inactive
+CUST-1645,Charlotte,Hernandez,charlotte.hernandez645@example.com,+1-427-555-6809,Philadelphia,PA,2023-10-12,1559.32,Active
+CUST-1646,Harper,Wilson,harper.wilson646@example.com,+1-500-555-3138,Charlotte,NC,2023-10-14,3474.76,Active
+CUST-1647,Mia,Brown,mia.brown647@example.com,+1-356-555-7203,San Antonio,TX,2023-02-26,1796.17,Active
+CUST-1648,Isabella,Martinez,isabella.martinez648@example.com,+1-463-555-6763,Denver,CO,2023-10-12,2430.89,Pending
+CUST-1649,Benjamin,Martinez,benjamin.martinez649@example.com,+1-792-555-6151,Los Angeles,CA,2023-08-12,4804.43,Active
+CUST-1650,Amelia,Johnson,amelia.johnson650@example.com,+1-860-555-9152,Philadelphia,PA,2023-05-23,4433.27,Pending
+CUST-1651,Isabella,Miller,isabella.miller651@example.com,+1-607-555-6525,Houston,TX,2023-08-17,1300.08,Active
+CUST-1652,Ava,Lopez,ava.lopez652@example.com,+1-579-555-8448,San Antonio,TX,2023-01-18,4830.99,Pending
+CUST-1653,Amelia,Lopez,amelia.lopez653@example.com,+1-380-555-6479,Philadelphia,PA,2023-09-08,2266.01,Inactive
+CUST-1654,Olivia,Martinez,olivia.martinez654@example.com,+1-293-555-1691,Philadelphia,PA,2023-10-28,3836.28,Active
+CUST-1655,Mason,Miller,mason.miller655@example.com,+1-813-555-6548,Phoenix,AZ,2023-10-17,818.68,Active
+CUST-1656,Liam,Anderson,liam.anderson656@example.com,+1-935-555-9084,Los Angeles,CA,2023-02-12,1190.05,Active
+CUST-1657,Charlotte,Rodriguez,charlotte.rodriguez657@example.com,+1-667-555-1067,Seattle,WA,2023-03-28,4598.01,Active
+CUST-1658,Benjamin,Martin,benjamin.martin658@example.com,+1-373-555-9683,Fort Worth,TX,2023-05-17,2888.63,Active
+CUST-1659,Alexander,Wilson,alexander.wilson659@example.com,+1-676-555-9494,Philadelphia,PA,2023-04-07,3075.77,Inactive
+CUST-1660,Ethan,Garcia,ethan.garcia660@example.com,+1-265-555-8165,San Jose,CA,2023-02-10,147.16,Active
+CUST-1661,Lucas,Jones,lucas.jones661@example.com,+1-496-555-6943,Houston,TX,2023-06-12,3594.39,Inactive
+CUST-1662,Harper,Brown,harper.brown662@example.com,+1-585-555-4757,San Diego,CA,2023-09-05,1248.48,Inactive
+CUST-1663,Harper,Davis,harper.davis663@example.com,+1-330-555-6412,Philadelphia,PA,2023-11-10,3711.74,Inactive
+CUST-1664,Evelyn,Hernandez,evelyn.hernandez664@example.com,+1-693-555-4571,Dallas,TX,2023-01-02,1770.51,Active
+CUST-1665,Ethan,Rodriguez,ethan.rodriguez665@example.com,+1-236-555-6726,San Diego,CA,2023-07-18,3450.87,Active
+CUST-1666,Alexander,Jackson,alexander.jackson666@example.com,+1-541-555-5343,Washington,DC,2023-10-05,2967.53,Active
+CUST-1667,Sophia,Brown,sophia.brown667@example.com,+1-239-555-9782,Phoenix,AZ,2023-09-11,1941.1,Active
+CUST-1668,Amelia,Brown,amelia.brown668@example.com,+1-210-555-8892,Washington,DC,2023-11-06,3287.4,Active
+CUST-1669,Henry,Jackson,henry.jackson669@example.com,+1-254-555-9523,Charlotte,NC,2023-03-09,4967.15,Active
+CUST-1670,Mason,Wilson,mason.wilson670@example.com,+1-807-555-9949,Denver,CO,2023-11-01,2473.65,Active
+CUST-1671,Lucas,Miller,lucas.miller671@example.com,+1-697-555-4330,Indianapolis,IN,2023-10-10,848.19,Active
+CUST-1672,Harper,Wilson,harper.wilson672@example.com,+1-974-555-2762,Phoenix,AZ,2023-01-21,175.57,Active
+CUST-1673,Alexander,Taylor,alexander.taylor673@example.com,+1-314-555-9393,Dallas,TX,2023-08-10,2270.46,Active
+CUST-1674,James,Davis,james.davis674@example.com,+1-836-555-6378,San Antonio,TX,2023-01-25,2386.9,Pending
+CUST-1675,Emma,Anderson,emma.anderson675@example.com,+1-406-555-8700,Columbus,OH,2023-05-13,1717.94,Active
+CUST-1676,Emma,Jones,emma.jones676@example.com,+1-594-555-4839,New York,NY,2023-12-06,2735.65,Pending
+CUST-1677,Charlotte,Miller,charlotte.miller677@example.com,+1-635-555-2376,Denver,CO,2023-04-02,3455.91,Active
+CUST-1678,Isabella,Miller,isabella.miller678@example.com,+1-541-555-2250,Austin,TX,2023-10-02,3353.69,Active
+CUST-1679,William,Williams,william.williams679@example.com,+1-285-555-6650,Indianapolis,IN,2023-02-04,1374.59,Active
+CUST-1680,Lucas,Hernandez,lucas.hernandez680@example.com,+1-740-555-1640,Houston,TX,2023-07-10,162.49,Pending
+CUST-1681,William,Martinez,william.martinez681@example.com,+1-680-555-8955,Jacksonville,FL,2023-02-10,4878.53,Active
+CUST-1682,Lucas,Johnson,lucas.johnson682@example.com,+1-609-555-4113,Dallas,TX,2023-05-04,4193.32,Active
+CUST-1683,Harper,Thomas,harper.thomas683@example.com,+1-356-555-7095,Jacksonville,FL,2023-12-26,1030.15,Inactive
+CUST-1684,Ava,Rodriguez,ava.rodriguez684@example.com,+1-540-555-1113,San Jose,CA,2023-04-02,793.6,Inactive
+CUST-1685,Sophia,Brown,sophia.brown685@example.com,+1-336-555-5437,San Jose,CA,2023-06-08,178.54,Active
+CUST-1686,Noah,Anderson,noah.anderson686@example.com,+1-248-555-2890,Jacksonville,FL,2023-11-28,2566.64,Inactive
+CUST-1687,Isabella,Hernandez,isabella.hernandez687@example.com,+1-222-555-4597,Fort Worth,TX,2023-07-07,4253.28,Inactive
+CUST-1688,James,Smith,james.smith688@example.com,+1-878-555-6222,Austin,TX,2023-02-27,1859.4,Pending
+CUST-1689,William,Gonzalez,william.gonzalez689@example.com,+1-998-555-5749,San Jose,CA,2023-05-14,4624.33,Active
+CUST-1690,Henry,Smith,henry.smith690@example.com,+1-753-555-4685,Denver,CO,2023-01-23,543.18,Pending
+CUST-1691,Noah,Gonzalez,noah.gonzalez691@example.com,+1-772-555-6191,Washington,DC,2023-03-25,3164.3,Pending
+CUST-1692,Emma,Anderson,emma.anderson692@example.com,+1-619-555-5799,Charlotte,NC,2023-10-23,2237.8,Active
+CUST-1693,Charlotte,Jackson,charlotte.jackson693@example.com,+1-729-555-8516,San Antonio,TX,2023-01-21,4469.85,Active
+CUST-1694,Mason,Lopez,mason.lopez694@example.com,+1-562-555-5021,Jacksonville,FL,2023-03-06,2210.62,Active
+CUST-1695,Liam,Davis,liam.davis695@example.com,+1-521-555-4806,Phoenix,AZ,2023-07-21,1292.33,Pending
+CUST-1696,Amelia,Rodriguez,amelia.rodriguez696@example.com,+1-765-555-2553,Fort Worth,TX,2023-11-03,2325.4,Active
+CUST-1697,Charlotte,Wilson,charlotte.wilson697@example.com,+1-458-555-7034,San Jose,CA,2023-09-13,3717.69,Active
+CUST-1698,Benjamin,Taylor,benjamin.taylor698@example.com,+1-595-555-5225,Jacksonville,FL,2023-03-19,2366.12,Active
+CUST-1699,Mason,Martin,mason.martin699@example.com,+1-927-555-9564,Phoenix,AZ,2023-08-02,4447.62,Pending
+CUST-1700,Henry,Thomas,henry.thomas700@example.com,+1-569-555-5070,Fort Worth,TX,2023-10-13,2478.5,Inactive
+CUST-1701,Lucas,Anderson,lucas.anderson701@example.com,+1-572-555-5123,San Diego,CA,2023-02-02,3646.64,Inactive
+CUST-1702,James,Rodriguez,james.rodriguez702@example.com,+1-581-555-5075,San Jose,CA,2023-11-09,2086.54,Pending
+CUST-1703,Amelia,Moore,amelia.moore703@example.com,+1-948-555-5850,Los Angeles,CA,2023-12-22,2028.15,Active
+CUST-1704,Noah,Martin,noah.martin704@example.com,+1-318-555-4072,Philadelphia,PA,2023-11-28,4113.19,Active
+CUST-1705,Lucas,Jackson,lucas.jackson705@example.com,+1-790-555-6753,San Francisco,CA,2023-12-01,1038.18,Active
+CUST-1706,Amelia,Anderson,amelia.anderson706@example.com,+1-576-555-6695,Seattle,WA,2023-11-01,187.42,Active
+CUST-1707,Harper,Taylor,harper.taylor707@example.com,+1-650-555-4168,Seattle,WA,2023-04-27,2941.21,Inactive
+CUST-1708,Liam,Garcia,liam.garcia708@example.com,+1-554-555-4464,Los Angeles,CA,2023-02-25,4923.78,Active
+CUST-1709,James,Lopez,james.lopez709@example.com,+1-399-555-8947,Houston,TX,2023-06-06,3784.91,Active
+CUST-1710,Sophia,Brown,sophia.brown710@example.com,+1-298-555-7191,Chicago,IL,2023-10-25,916.86,Pending
+CUST-1711,Evelyn,Anderson,evelyn.anderson711@example.com,+1-356-555-8121,Chicago,IL,2023-02-24,1821.98,Active
+CUST-1712,Ethan,Thomas,ethan.thomas712@example.com,+1-305-555-2263,Houston,TX,2023-10-16,4100.49,Active
+CUST-1713,Harper,Hernandez,harper.hernandez713@example.com,+1-576-555-1235,Los Angeles,CA,2023-12-15,4911.88,Active
+CUST-1714,Amelia,Jones,amelia.jones714@example.com,+1-677-555-6738,Denver,CO,2023-04-23,551.76,Active
+CUST-1715,Mason,Wilson,mason.wilson715@example.com,+1-259-555-6224,Los Angeles,CA,2023-04-03,2661.64,Active
+CUST-1716,Olivia,Miller,olivia.miller716@example.com,+1-278-555-6447,San Antonio,TX,2023-06-10,1208.77,Inactive
+CUST-1717,Alexander,Martinez,alexander.martinez717@example.com,+1-852-555-4988,New York,NY,2023-02-11,1351.63,Active
+CUST-1718,Mason,Davis,mason.davis718@example.com,+1-521-555-7427,San Antonio,TX,2023-05-02,2385.57,Active
+CUST-1719,Ava,Rodriguez,ava.rodriguez719@example.com,+1-622-555-7472,San Francisco,CA,2023-07-27,4159.58,Active
+CUST-1720,Isabella,Miller,isabella.miller720@example.com,+1-777-555-3013,Denver,CO,2023-12-06,4769.56,Pending
+CUST-1721,Mason,Thomas,mason.thomas721@example.com,+1-444-555-2951,Philadelphia,PA,2023-08-20,4223.12,Active
+CUST-1722,Benjamin,Lopez,benjamin.lopez722@example.com,+1-284-555-5642,San Diego,CA,2023-08-15,4142.87,Active
+CUST-1723,James,Williams,james.williams723@example.com,+1-846-555-4449,Denver,CO,2023-08-15,2668.27,Active
+CUST-1724,Olivia,Lopez,olivia.lopez724@example.com,+1-731-555-8098,Charlotte,NC,2023-04-09,2694.44,Active
+CUST-1725,Evelyn,Martinez,evelyn.martinez725@example.com,+1-698-555-7632,Austin,TX,2023-06-01,70.59,Active
+CUST-1726,Isabella,Wilson,isabella.wilson726@example.com,+1-660-555-4328,Fort Worth,TX,2023-05-07,4485.75,Inactive
+CUST-1727,Liam,Jones,liam.jones727@example.com,+1-794-555-3033,Phoenix,AZ,2023-01-22,2518.93,Active
+CUST-1728,William,Lopez,william.lopez728@example.com,+1-717-555-8633,San Antonio,TX,2023-06-07,1612.8,Pending
+CUST-1729,William,Moore,william.moore729@example.com,+1-847-555-6090,Washington,DC,2023-11-22,2729.39,Active
+CUST-1730,William,Rodriguez,william.rodriguez730@example.com,+1-334-555-7716,Indianapolis,IN,2023-12-07,408.4,Active
+CUST-1731,Charlotte,Moore,charlotte.moore731@example.com,+1-506-555-8176,San Francisco,CA,2023-12-21,2472.49,Active
+CUST-1732,Noah,Martinez,noah.martinez732@example.com,+1-849-555-3573,Washington,DC,2023-06-07,861.28,Active
+CUST-1733,Liam,Williams,liam.williams733@example.com,+1-564-555-7165,San Jose,CA,2023-06-07,4621.25,Pending
+CUST-1734,Lucas,Smith,lucas.smith734@example.com,+1-993-555-6872,Philadelphia,PA,2023-10-28,3721.18,Pending
+CUST-1735,Henry,Jones,henry.jones735@example.com,+1-528-555-1347,San Diego,CA,2023-07-12,1054.5,Active
+CUST-1736,Sophia,Garcia,sophia.garcia736@example.com,+1-864-555-5912,San Diego,CA,2023-06-02,3630.39,Active
+CUST-1737,Evelyn,Brown,evelyn.brown737@example.com,+1-389-555-8514,San Diego,CA,2023-03-26,2478.27,Active
+CUST-1738,Ava,Moore,ava.moore738@example.com,+1-871-555-4479,Los Angeles,CA,2023-05-22,2512.52,Pending
+CUST-1739,Amelia,Garcia,amelia.garcia739@example.com,+1-725-555-1890,Seattle,WA,2023-04-05,3738.18,Active
+CUST-1740,Isabella,Lopez,isabella.lopez740@example.com,+1-593-555-3995,Denver,CO,2023-03-16,3794.83,Inactive
+CUST-1741,Isabella,Brown,isabella.brown741@example.com,+1-323-555-1552,Charlotte,NC,2023-04-14,668.49,Active
+CUST-1742,Alexander,Taylor,alexander.taylor742@example.com,+1-517-555-3489,Seattle,WA,2023-05-03,2677.58,Active
+CUST-1743,Charlotte,Jackson,charlotte.jackson743@example.com,+1-956-555-2150,Charlotte,NC,2023-06-10,1889.57,Active
+CUST-1744,Noah,Martinez,noah.martinez744@example.com,+1-940-555-1095,San Jose,CA,2023-04-23,912.58,Active
+CUST-1745,William,Wilson,william.wilson745@example.com,+1-751-555-5475,San Antonio,TX,2023-03-08,1998.06,Active
+CUST-1746,Alexander,Johnson,alexander.johnson746@example.com,+1-515-555-7756,San Antonio,TX,2023-05-08,200.22,Active
+CUST-1747,Mason,Jones,mason.jones747@example.com,+1-471-555-8405,San Diego,CA,2023-04-09,2173.29,Active
+CUST-1748,Harper,Davis,harper.davis748@example.com,+1-207-555-7403,Washington,DC,2023-05-13,1210.08,Active
+CUST-1749,Isabella,Williams,isabella.williams749@example.com,+1-366-555-7452,Houston,TX,2023-07-09,4870.63,Inactive
+CUST-1750,Charlotte,Wilson,charlotte.wilson750@example.com,+1-746-555-4589,Fort Worth,TX,2023-01-14,1414.88,Pending
+CUST-1751,Henry,Hernandez,henry.hernandez751@example.com,+1-261-555-8502,Fort Worth,TX,2023-02-17,1379.57,Pending
+CUST-1752,Harper,Wilson,harper.wilson752@example.com,+1-946-555-2685,San Jose,CA,2023-07-16,1903.08,Active
+CUST-1753,Charlotte,Brown,charlotte.brown753@example.com,+1-523-555-2955,San Diego,CA,2023-05-07,1291.11,Active
+CUST-1754,James,Hernandez,james.hernandez754@example.com,+1-487-555-4936,Charlotte,NC,2023-12-06,4311.68,Active
+CUST-1755,Charlotte,Williams,charlotte.williams755@example.com,+1-755-555-3282,Jacksonville,FL,2023-11-07,2663.42,Active
+CUST-1756,James,Wilson,james.wilson756@example.com,+1-329-555-8184,Houston,TX,2023-03-11,1593.4,Pending
+CUST-1757,Noah,Thomas,noah.thomas757@example.com,+1-439-555-9769,Houston,TX,2023-07-03,3704.8,Active
+CUST-1758,Benjamin,Smith,benjamin.smith758@example.com,+1-313-555-6725,San Antonio,TX,2023-08-16,2790.74,Pending
+CUST-1759,William,Gonzalez,william.gonzalez759@example.com,+1-762-555-9302,Seattle,WA,2023-03-15,578.19,Inactive
+CUST-1760,Isabella,Miller,isabella.miller760@example.com,+1-685-555-7948,Seattle,WA,2023-10-14,1179.0,Pending
+CUST-1761,Evelyn,Gonzalez,evelyn.gonzalez761@example.com,+1-457-555-3844,Denver,CO,2023-03-28,4684.91,Pending
+CUST-1762,William,Lopez,william.lopez762@example.com,+1-597-555-7923,Columbus,OH,2023-07-23,4109.53,Pending
+CUST-1763,James,Thomas,james.thomas763@example.com,+1-286-555-7490,Denver,CO,2023-04-05,3040.59,Pending
+CUST-1764,William,Gonzalez,william.gonzalez764@example.com,+1-888-555-6708,New York,NY,2023-12-24,2259.71,Active
+CUST-1765,Noah,Williams,noah.williams765@example.com,+1-567-555-2952,Philadelphia,PA,2023-06-16,3946.26,Pending
+CUST-1766,James,Lopez,james.lopez766@example.com,+1-767-555-8182,Charlotte,NC,2023-12-25,4221.18,Active
+CUST-1767,Sophia,Gonzalez,sophia.gonzalez767@example.com,+1-432-555-3528,Columbus,OH,2023-04-07,3285.65,Active
+CUST-1768,William,Brown,william.brown768@example.com,+1-903-555-3292,Charlotte,NC,2023-08-11,1462.33,Inactive
+CUST-1769,Benjamin,Taylor,benjamin.taylor769@example.com,+1-490-555-1780,San Antonio,TX,2023-01-04,1231.36,Pending
+CUST-1770,Harper,Moore,harper.moore770@example.com,+1-384-555-8827,Seattle,WA,2023-03-12,2409.19,Inactive
+CUST-1771,Ethan,Lopez,ethan.lopez771@example.com,+1-700-555-1886,San Diego,CA,2023-12-08,4353.14,Pending
+CUST-1772,Lucas,Martinez,lucas.martinez772@example.com,+1-754-555-9159,San Diego,CA,2023-11-11,632.91,Active
+CUST-1773,Olivia,Lopez,olivia.lopez773@example.com,+1-599-555-3474,Charlotte,NC,2023-01-23,3291.49,Active
+CUST-1774,Liam,Jones,liam.jones774@example.com,+1-730-555-2318,Phoenix,AZ,2023-11-21,3987.34,Pending
+CUST-1775,Benjamin,Rodriguez,benjamin.rodriguez775@example.com,+1-434-555-8634,Chicago,IL,2023-02-22,2963.08,Inactive
+CUST-1776,Ethan,Williams,ethan.williams776@example.com,+1-928-555-1573,New York,NY,2023-12-23,1681.57,Inactive
+CUST-1777,Ethan,Rodriguez,ethan.rodriguez777@example.com,+1-237-555-4546,San Francisco,CA,2023-03-27,4989.51,Active
+CUST-1778,Ava,Martin,ava.martin778@example.com,+1-231-555-8580,Los Angeles,CA,2023-04-07,2117.77,Pending
+CUST-1779,Noah,Hernandez,noah.hernandez779@example.com,+1-972-555-9334,Phoenix,AZ,2023-06-16,3348.44,Pending
+CUST-1780,Isabella,Hernandez,isabella.hernandez780@example.com,+1-502-555-5410,Houston,TX,2023-02-17,681.91,Pending
+CUST-1781,Henry,Taylor,henry.taylor781@example.com,+1-397-555-1389,Phoenix,AZ,2023-10-19,1299.63,Active
+CUST-1782,Benjamin,Brown,benjamin.brown782@example.com,+1-317-555-7227,Dallas,TX,2023-12-07,793.1,Active
+CUST-1783,Amelia,Martin,amelia.martin783@example.com,+1-360-555-2151,Los Angeles,CA,2023-11-05,2556.23,Pending
+CUST-1784,Lucas,Martin,lucas.martin784@example.com,+1-527-555-3383,San Antonio,TX,2023-06-05,3370.78,Pending
+CUST-1785,Noah,Martin,noah.martin785@example.com,+1-688-555-1252,San Antonio,TX,2023-05-10,1234.69,Pending
+CUST-1786,Ethan,Jackson,ethan.jackson786@example.com,+1-468-555-9566,Chicago,IL,2023-01-27,1338.01,Active
+CUST-1787,Charlotte,Garcia,charlotte.garcia787@example.com,+1-742-555-4930,Charlotte,NC,2023-07-26,1651.0,Active
+CUST-1788,Ava,Anderson,ava.anderson788@example.com,+1-367-555-9322,Los Angeles,CA,2023-09-15,4463.91,Pending
+CUST-1789,Emma,Martin,emma.martin789@example.com,+1-268-555-4869,Chicago,IL,2023-10-23,3400.47,Pending
+CUST-1790,Charlotte,Miller,charlotte.miller790@example.com,+1-587-555-3757,Jacksonville,FL,2023-11-25,498.26,Pending
+CUST-1791,Olivia,Hernandez,olivia.hernandez791@example.com,+1-950-555-5576,Seattle,WA,2023-12-06,2013.29,Inactive
+CUST-1792,Benjamin,Miller,benjamin.miller792@example.com,+1-612-555-3029,Philadelphia,PA,2023-09-25,1436.44,Active
+CUST-1793,Lucas,Lopez,lucas.lopez793@example.com,+1-342-555-5086,Dallas,TX,2023-05-02,273.52,Active
+CUST-1794,Charlotte,Martin,charlotte.martin794@example.com,+1-345-555-4087,Denver,CO,2023-07-16,1311.39,Inactive
+CUST-1795,Isabella,Jones,isabella.jones795@example.com,+1-256-555-3820,Indianapolis,IN,2023-11-05,4905.72,Inactive
+CUST-1796,Alexander,Martin,alexander.martin796@example.com,+1-653-555-1513,Austin,TX,2023-01-15,1017.55,Active
+CUST-1797,Isabella,Miller,isabella.miller797@example.com,+1-719-555-9348,Los Angeles,CA,2023-11-08,3650.49,Active
+CUST-1798,Lucas,Hernandez,lucas.hernandez798@example.com,+1-438-555-3595,San Jose,CA,2023-03-19,3651.12,Active
+CUST-1799,Noah,Martinez,noah.martinez799@example.com,+1-528-555-9653,Phoenix,AZ,2023-07-17,217.16,Active
+CUST-1800,Harper,Garcia,harper.garcia800@example.com,+1-476-555-8719,San Francisco,CA,2023-01-18,695.52,Active
+CUST-1801,Mason,Williams,mason.williams801@example.com,+1-465-555-7070,Charlotte,NC,2023-03-18,4999.92,Active
+CUST-1802,Emma,Gonzalez,emma.gonzalez802@example.com,+1-245-555-7915,Austin,TX,2023-11-11,2628.84,Pending
+CUST-1803,James,Jackson,james.jackson803@example.com,+1-555-555-1090,San Antonio,TX,2023-03-16,205.43,Active
+CUST-1804,Mia,Anderson,mia.anderson804@example.com,+1-958-555-6007,Chicago,IL,2023-03-23,623.49,Active
+CUST-1805,Charlotte,Garcia,charlotte.garcia805@example.com,+1-827-555-3489,Phoenix,AZ,2023-05-25,4876.57,Pending
+CUST-1806,Ava,Smith,ava.smith806@example.com,+1-278-555-8927,Austin,TX,2023-12-23,3150.79,Active
+CUST-1807,Henry,Lopez,henry.lopez807@example.com,+1-856-555-9103,Seattle,WA,2023-08-06,1970.43,Active
+CUST-1808,Liam,Thomas,liam.thomas808@example.com,+1-960-555-5190,San Diego,CA,2023-07-17,3375.27,Active
+CUST-1809,Mia,Jones,mia.jones809@example.com,+1-937-555-1110,San Francisco,CA,2023-06-01,734.25,Active
+CUST-1810,Amelia,Jackson,amelia.jackson810@example.com,+1-638-555-9864,Seattle,WA,2023-11-05,3943.13,Active
+CUST-1811,William,Brown,william.brown811@example.com,+1-464-555-8950,New York,NY,2023-12-03,3810.9,Active
+CUST-1812,Mia,Jones,mia.jones812@example.com,+1-885-555-6413,Fort Worth,TX,2023-07-26,560.42,Pending
+CUST-1813,Lucas,Garcia,lucas.garcia813@example.com,+1-876-555-4212,San Jose,CA,2023-06-23,1264.55,Inactive
+CUST-1814,Ethan,Brown,ethan.brown814@example.com,+1-893-555-7341,Phoenix,AZ,2023-05-16,3555.82,Pending
+CUST-1815,Mia,Martinez,mia.martinez815@example.com,+1-460-555-1308,Austin,TX,2023-10-09,1169.37,Pending
+CUST-1816,Henry,Gonzalez,henry.gonzalez816@example.com,+1-556-555-4030,Chicago,IL,2023-01-14,2723.72,Active
+CUST-1817,Mia,Johnson,mia.johnson817@example.com,+1-248-555-6374,Jacksonville,FL,2023-10-14,625.55,Pending
+CUST-1818,Evelyn,Thomas,evelyn.thomas818@example.com,+1-839-555-9038,Philadelphia,PA,2023-03-26,4087.19,Active
+CUST-1819,Evelyn,Moore,evelyn.moore819@example.com,+1-536-555-5571,Columbus,OH,2023-05-04,2115.51,Inactive
+CUST-1820,Charlotte,Davis,charlotte.davis820@example.com,+1-418-555-3105,San Antonio,TX,2023-05-21,458.81,Pending
+CUST-1821,Mia,Thomas,mia.thomas821@example.com,+1-823-555-4486,Dallas,TX,2023-11-25,4293.98,Active
+CUST-1822,Harper,Gonzalez,harper.gonzalez822@example.com,+1-985-555-6488,New York,NY,2023-04-28,2193.4,Active
+CUST-1823,Mason,Moore,mason.moore823@example.com,+1-899-555-8948,Los Angeles,CA,2023-01-11,4779.07,Active
+CUST-1824,Lucas,Smith,lucas.smith824@example.com,+1-652-555-3407,Denver,CO,2023-03-04,514.2,Active
+CUST-1825,Lucas,Miller,lucas.miller825@example.com,+1-628-555-2444,New York,NY,2023-09-15,2302.45,Inactive
+CUST-1826,Henry,Hernandez,henry.hernandez826@example.com,+1-362-555-1943,San Francisco,CA,2023-10-21,1540.36,Active
+CUST-1827,Henry,Lopez,henry.lopez827@example.com,+1-742-555-9967,Phoenix,AZ,2023-11-17,3652.98,Pending
+CUST-1828,Noah,Williams,noah.williams828@example.com,+1-791-555-5555,San Jose,CA,2023-06-28,1416.43,Active
+CUST-1829,Evelyn,Jones,evelyn.jones829@example.com,+1-714-555-1690,Austin,TX,2023-10-10,1321.7,Inactive
+CUST-1830,Benjamin,Brown,benjamin.brown830@example.com,+1-417-555-5758,San Diego,CA,2023-05-06,3684.26,Active
+CUST-1831,Lucas,Hernandez,lucas.hernandez831@example.com,+1-301-555-7327,San Diego,CA,2023-03-27,3253.17,Active
+CUST-1832,Ethan,Miller,ethan.miller832@example.com,+1-325-555-1192,Charlotte,NC,2023-02-14,646.59,Active
+CUST-1833,Alexander,Williams,alexander.williams833@example.com,+1-909-555-6933,Chicago,IL,2023-01-02,2555.05,Active
+CUST-1834,Amelia,Miller,amelia.miller834@example.com,+1-382-555-4726,New York,NY,2023-03-08,1358.09,Inactive
+CUST-1835,Mia,Garcia,mia.garcia835@example.com,+1-299-555-3111,Los Angeles,CA,2023-08-20,1787.67,Active
+CUST-1836,Olivia,Jones,olivia.jones836@example.com,+1-332-555-4077,Jacksonville,FL,2023-04-06,4509.52,Active
+CUST-1837,Benjamin,Moore,benjamin.moore837@example.com,+1-358-555-4988,San Antonio,TX,2023-11-02,3928.36,Active
+CUST-1838,Isabella,Garcia,isabella.garcia838@example.com,+1-329-555-2360,Philadelphia,PA,2023-05-20,1762.26,Active
+CUST-1839,Charlotte,Garcia,charlotte.garcia839@example.com,+1-243-555-8708,San Antonio,TX,2023-04-14,696.09,Inactive
+CUST-1840,Benjamin,Gonzalez,benjamin.gonzalez840@example.com,+1-888-555-5402,San Diego,CA,2023-01-22,1818.0,Pending
+CUST-1841,Liam,Williams,liam.williams841@example.com,+1-358-555-3048,San Francisco,CA,2023-02-15,4905.05,Active
+CUST-1842,James,Gonzalez,james.gonzalez842@example.com,+1-743-555-6927,Jacksonville,FL,2023-07-17,4479.79,Active
+CUST-1843,Harper,Lopez,harper.lopez843@example.com,+1-857-555-8556,San Diego,CA,2023-04-19,2495.83,Active
+CUST-1844,Mia,Miller,mia.miller844@example.com,+1-256-555-2018,Jacksonville,FL,2023-11-10,3212.68,Inactive
+CUST-1845,Emma,Miller,emma.miller845@example.com,+1-752-555-7186,Jacksonville,FL,2023-10-13,4342.94,Active
+CUST-1846,Lucas,Martin,lucas.martin846@example.com,+1-864-555-7524,Charlotte,NC,2023-05-01,2972.27,Inactive
+CUST-1847,Sophia,Hernandez,sophia.hernandez847@example.com,+1-468-555-9896,Seattle,WA,2023-12-17,733.2,Active
+CUST-1848,Alexander,Moore,alexander.moore848@example.com,+1-264-555-9140,Philadelphia,PA,2023-03-25,1071.26,Pending
+CUST-1849,Noah,Johnson,noah.johnson849@example.com,+1-625-555-3902,San Diego,CA,2023-08-09,1422.59,Active
+CUST-1850,Evelyn,Gonzalez,evelyn.gonzalez850@example.com,+1-340-555-7897,Houston,TX,2023-10-01,3088.41,Active
+CUST-1851,Liam,Jones,liam.jones851@example.com,+1-957-555-2924,Austin,TX,2023-05-24,3341.44,Active
+CUST-1852,Liam,Garcia,liam.garcia852@example.com,+1-267-555-7355,Dallas,TX,2023-08-03,874.63,Active
+CUST-1853,Liam,Smith,liam.smith853@example.com,+1-401-555-2817,Dallas,TX,2023-08-16,1948.94,Active
+CUST-1854,Mason,Moore,mason.moore854@example.com,+1-259-555-3304,Indianapolis,IN,2023-10-11,4692.41,Active
+CUST-1855,Ethan,Garcia,ethan.garcia855@example.com,+1-411-555-8974,Los Angeles,CA,2023-09-10,1603.49,Pending
+CUST-1856,Isabella,Wilson,isabella.wilson856@example.com,+1-908-555-3700,San Antonio,TX,2023-02-23,118.77,Active
+CUST-1857,Charlotte,Brown,charlotte.brown857@example.com,+1-821-555-7103,Jacksonville,FL,2023-03-03,2841.32,Active
+CUST-1858,Alexander,Thomas,alexander.thomas858@example.com,+1-347-555-2373,Austin,TX,2023-08-19,2787.35,Active
+CUST-1859,Benjamin,Lopez,benjamin.lopez859@example.com,+1-297-555-8115,Columbus,OH,2023-01-11,3786.45,Active
+CUST-1860,James,Thomas,james.thomas860@example.com,+1-927-555-5543,San Diego,CA,2023-10-12,1470.5,Pending
+CUST-1861,Isabella,Martinez,isabella.martinez861@example.com,+1-650-555-3009,New York,NY,2023-01-20,4606.26,Active
+CUST-1862,Emma,Johnson,emma.johnson862@example.com,+1-697-555-3606,Denver,CO,2023-06-25,4500.65,Active
+CUST-1863,Sophia,Jackson,sophia.jackson863@example.com,+1-622-555-1426,Dallas,TX,2023-11-04,2985.83,Active
+CUST-1864,Ava,Garcia,ava.garcia864@example.com,+1-879-555-3310,Fort Worth,TX,2023-09-02,3319.95,Active
+CUST-1865,Henry,Martinez,henry.martinez865@example.com,+1-599-555-3963,Fort Worth,TX,2023-02-02,481.98,Inactive
+CUST-1866,Olivia,Rodriguez,olivia.rodriguez866@example.com,+1-823-555-5169,Austin,TX,2023-11-07,1706.81,Active
+CUST-1867,Harper,Lopez,harper.lopez867@example.com,+1-998-555-1680,Chicago,IL,2023-07-14,4044.1,Active
+CUST-1868,Olivia,Martinez,olivia.martinez868@example.com,+1-632-555-6540,Phoenix,AZ,2023-07-05,3520.76,Active
+CUST-1869,Ethan,Davis,ethan.davis869@example.com,+1-825-555-9965,San Diego,CA,2023-02-16,4202.69,Active
+CUST-1870,Mason,Wilson,mason.wilson870@example.com,+1-676-555-4807,Jacksonville,FL,2023-11-07,4458.08,Inactive
+CUST-1871,Ethan,Williams,ethan.williams871@example.com,+1-318-555-8914,Phoenix,AZ,2023-08-27,454.59,Inactive
+CUST-1872,Liam,Brown,liam.brown872@example.com,+1-662-555-2558,San Antonio,TX,2023-03-09,373.37,Inactive
+CUST-1873,Emma,Garcia,emma.garcia873@example.com,+1-702-555-1985,San Diego,CA,2023-08-01,2313.66,Inactive
+CUST-1874,Alexander,Davis,alexander.davis874@example.com,+1-211-555-5119,Austin,TX,2023-05-10,2489.17,Active
+CUST-1875,Ethan,Williams,ethan.williams875@example.com,+1-601-555-4715,Dallas,TX,2023-03-20,3044.07,Pending
+CUST-1876,Olivia,Rodriguez,olivia.rodriguez876@example.com,+1-832-555-4592,Jacksonville,FL,2023-08-28,2462.6,Active
+CUST-1877,Lucas,Gonzalez,lucas.gonzalez877@example.com,+1-402-555-7012,Washington,DC,2023-03-15,4202.38,Active
+CUST-1878,Benjamin,Williams,benjamin.williams878@example.com,+1-753-555-1372,San Diego,CA,2023-08-17,2863.88,Pending
+CUST-1879,William,Rodriguez,william.rodriguez879@example.com,+1-972-555-2312,Austin,TX,2023-04-21,4474.79,Pending
+CUST-1880,Sophia,Brown,sophia.brown880@example.com,+1-351-555-4348,Fort Worth,TX,2023-11-03,540.08,Inactive
+CUST-1881,Olivia,Garcia,olivia.garcia881@example.com,+1-706-555-5184,Fort Worth,TX,2023-12-22,2931.19,Inactive
+CUST-1882,Liam,Rodriguez,liam.rodriguez882@example.com,+1-507-555-7496,San Antonio,TX,2023-07-03,335.84,Active
+CUST-1883,Isabella,Davis,isabella.davis883@example.com,+1-411-555-6264,Denver,CO,2023-02-04,4377.3,Active
+CUST-1884,Isabella,Martin,isabella.martin884@example.com,+1-984-555-5727,Houston,TX,2023-11-10,977.47,Active
+CUST-1885,Sophia,Garcia,sophia.garcia885@example.com,+1-602-555-3431,Columbus,OH,2023-05-17,643.35,Active
+CUST-1886,Emma,Miller,emma.miller886@example.com,+1-534-555-2123,San Diego,CA,2023-06-27,3725.04,Active
+CUST-1887,Amelia,Johnson,amelia.johnson887@example.com,+1-561-555-1327,Indianapolis,IN,2023-10-24,384.34,Inactive
+CUST-1888,Alexander,Thomas,alexander.thomas888@example.com,+1-389-555-8160,Los Angeles,CA,2023-02-07,2944.02,Active
+CUST-1889,Emma,Gonzalez,emma.gonzalez889@example.com,+1-904-555-6707,Columbus,OH,2023-12-17,3269.84,Active
+CUST-1890,William,Jones,william.jones890@example.com,+1-470-555-1233,New York,NY,2023-11-28,4173.79,Active
+CUST-1891,Ethan,Taylor,ethan.taylor891@example.com,+1-585-555-6869,Fort Worth,TX,2023-08-21,4872.09,Active
+CUST-1892,Henry,Hernandez,henry.hernandez892@example.com,+1-237-555-8168,Seattle,WA,2023-05-21,3957.84,Active
+CUST-1893,Benjamin,Hernandez,benjamin.hernandez893@example.com,+1-740-555-4194,Austin,TX,2023-04-21,2674.04,Active
+CUST-1894,Lucas,Miller,lucas.miller894@example.com,+1-481-555-9609,Charlotte,NC,2023-07-25,4649.46,Inactive
+CUST-1895,Emma,Anderson,emma.anderson895@example.com,+1-521-555-2185,San Francisco,CA,2023-10-16,3232.62,Inactive
+CUST-1896,Noah,Garcia,noah.garcia896@example.com,+1-599-555-2495,San Diego,CA,2023-11-28,944.78,Inactive
+CUST-1897,Sophia,Moore,sophia.moore897@example.com,+1-686-555-5615,Phoenix,AZ,2023-06-04,3916.24,Active
+CUST-1898,Ethan,Smith,ethan.smith898@example.com,+1-291-555-1754,Denver,CO,2023-07-03,1373.34,Inactive
+CUST-1899,Emma,Smith,emma.smith899@example.com,+1-279-555-9100,San Francisco,CA,2023-02-07,687.93,Active
+CUST-1900,Mia,Martinez,mia.martinez900@example.com,+1-910-555-2092,Los Angeles,CA,2023-11-26,1380.33,Inactive
+CUST-1901,Harper,Gonzalez,harper.gonzalez901@example.com,+1-666-555-2903,Washington,DC,2023-11-18,3408.03,Active
+CUST-1902,Ava,Brown,ava.brown902@example.com,+1-533-555-1596,San Antonio,TX,2023-03-26,3242.29,Pending
+CUST-1903,James,Jackson,james.jackson903@example.com,+1-372-555-9826,Jacksonville,FL,2023-07-25,4777.24,Pending
+CUST-1904,Ava,Jackson,ava.jackson904@example.com,+1-413-555-5949,San Antonio,TX,2023-11-22,663.2,Active
+CUST-1905,Ethan,Jones,ethan.jones905@example.com,+1-718-555-2073,New York,NY,2023-11-03,2537.84,Active
+CUST-1906,Benjamin,Smith,benjamin.smith906@example.com,+1-420-555-2797,San Jose,CA,2023-06-17,2595.1,Active
+CUST-1907,Lucas,Taylor,lucas.taylor907@example.com,+1-614-555-6028,San Jose,CA,2023-03-18,3053.13,Active
+CUST-1908,Benjamin,Martinez,benjamin.martinez908@example.com,+1-359-555-3777,Phoenix,AZ,2023-12-13,3323.9,Active
+CUST-1909,Henry,Hernandez,henry.hernandez909@example.com,+1-489-555-7652,San Jose,CA,2023-06-22,1863.66,Inactive
+CUST-1910,Olivia,Rodriguez,olivia.rodriguez910@example.com,+1-418-555-3974,San Diego,CA,2023-10-07,2447.18,Active
+CUST-1911,Emma,Jones,emma.jones911@example.com,+1-757-555-2752,Columbus,OH,2023-09-20,4805.12,Active
+CUST-1912,Sophia,Moore,sophia.moore912@example.com,+1-552-555-8573,Dallas,TX,2023-10-23,3501.61,Active
+CUST-1913,Evelyn,Johnson,evelyn.johnson913@example.com,+1-273-555-1890,San Antonio,TX,2023-01-19,3378.95,Active
+CUST-1914,Alexander,Lopez,alexander.lopez914@example.com,+1-613-555-6670,Chicago,IL,2023-06-09,1442.18,Active
+CUST-1915,Emma,Garcia,emma.garcia915@example.com,+1-338-555-4750,Phoenix,AZ,2023-05-12,3966.92,Active
+CUST-1916,Liam,Jones,liam.jones916@example.com,+1-315-555-7740,San Jose,CA,2023-12-16,467.21,Active
+CUST-1917,James,Davis,james.davis917@example.com,+1-741-555-4115,San Jose,CA,2023-11-04,3879.69,Inactive
+CUST-1918,Noah,Miller,noah.miller918@example.com,+1-616-555-4371,Fort Worth,TX,2023-07-26,1756.52,Active
+CUST-1919,Olivia,Rodriguez,olivia.rodriguez919@example.com,+1-700-555-6038,Columbus,OH,2023-11-28,1726.51,Active
+CUST-1920,Mason,Taylor,mason.taylor920@example.com,+1-463-555-7316,San Diego,CA,2023-04-22,1634.74,Inactive
+CUST-1921,Sophia,Williams,sophia.williams921@example.com,+1-733-555-4795,Denver,CO,2023-06-02,2295.12,Active
+CUST-1922,Harper,Gonzalez,harper.gonzalez922@example.com,+1-964-555-7680,Austin,TX,2023-04-14,163.88,Active
+CUST-1923,Isabella,Garcia,isabella.garcia923@example.com,+1-225-555-4821,San Francisco,CA,2023-01-19,4938.42,Inactive
+CUST-1924,William,Miller,william.miller924@example.com,+1-207-555-3851,Denver,CO,2023-01-10,2258.22,Active
+CUST-1925,Evelyn,Lopez,evelyn.lopez925@example.com,+1-755-555-3758,Chicago,IL,2023-01-15,3747.51,Inactive
+CUST-1926,Harper,Rodriguez,harper.rodriguez926@example.com,+1-956-555-1892,Houston,TX,2023-03-10,87.19,Active
+CUST-1927,James,Williams,james.williams927@example.com,+1-446-555-5040,Charlotte,NC,2023-05-28,4351.09,Active
+CUST-1928,Ava,Thomas,ava.thomas928@example.com,+1-923-555-1647,Washington,DC,2023-02-17,547.13,Active
+CUST-1929,Noah,Moore,noah.moore929@example.com,+1-451-555-3164,Dallas,TX,2023-07-13,1948.22,Active
+CUST-1930,Ava,Johnson,ava.johnson930@example.com,+1-920-555-1279,Columbus,OH,2023-06-04,757.15,Active
+CUST-1931,Alexander,Taylor,alexander.taylor931@example.com,+1-527-555-6419,Philadelphia,PA,2023-02-16,3814.61,Pending
+CUST-1932,Amelia,Gonzalez,amelia.gonzalez932@example.com,+1-802-555-1615,Seattle,WA,2023-10-25,236.96,Active
+CUST-1933,Evelyn,Williams,evelyn.williams933@example.com,+1-451-555-5119,Phoenix,AZ,2023-06-14,435.64,Inactive
+CUST-1934,Olivia,Taylor,olivia.taylor934@example.com,+1-422-555-9724,Philadelphia,PA,2023-04-28,1797.89,Active
+CUST-1935,Isabella,Jones,isabella.jones935@example.com,+1-653-555-2904,Washington,DC,2023-04-17,4185.59,Inactive
+CUST-1936,Evelyn,Jones,evelyn.jones936@example.com,+1-280-555-2036,Columbus,OH,2023-04-14,1690.72,Inactive
+CUST-1937,Amelia,Thomas,amelia.thomas937@example.com,+1-369-555-7527,Austin,TX,2023-10-16,3924.71,Active
+CUST-1938,Ethan,Hernandez,ethan.hernandez938@example.com,+1-429-555-5323,San Jose,CA,2023-07-19,4170.16,Pending
+CUST-1939,Amelia,Jackson,amelia.jackson939@example.com,+1-248-555-3152,Washington,DC,2023-03-19,2644.68,Inactive
+CUST-1940,Isabella,Hernandez,isabella.hernandez940@example.com,+1-282-555-7783,Charlotte,NC,2023-11-01,3595.8,Active
+CUST-1941,Harper,Brown,harper.brown941@example.com,+1-359-555-6530,Fort Worth,TX,2023-11-02,4429.63,Pending
+CUST-1942,James,Jackson,james.jackson942@example.com,+1-652-555-7429,Dallas,TX,2023-12-27,2816.92,Active
+CUST-1943,Emma,Martin,emma.martin943@example.com,+1-925-555-5011,San Jose,CA,2023-04-14,459.91,Active
+CUST-1944,Olivia,Hernandez,olivia.hernandez944@example.com,+1-594-555-6780,Los Angeles,CA,2023-07-02,1857.44,Active
+CUST-1945,Liam,Taylor,liam.taylor945@example.com,+1-213-555-9304,San Diego,CA,2023-07-18,3293.06,Inactive
+CUST-1946,Mason,Gonzalez,mason.gonzalez946@example.com,+1-994-555-5429,Seattle,WA,2023-05-11,4993.81,Pending
+CUST-1947,Emma,Anderson,emma.anderson947@example.com,+1-633-555-7548,New York,NY,2023-01-27,4000.1,Active
+CUST-1948,Charlotte,Garcia,charlotte.garcia948@example.com,+1-386-555-6346,Dallas,TX,2023-08-21,4471.91,Active
+CUST-1949,Isabella,Lopez,isabella.lopez949@example.com,+1-366-555-9848,Columbus,OH,2023-11-11,1140.36,Pending
+CUST-1950,Isabella,Jackson,isabella.jackson950@example.com,+1-323-555-6376,Seattle,WA,2023-11-04,416.53,Pending
+CUST-1951,Olivia,Gonzalez,olivia.gonzalez951@example.com,+1-415-555-2159,Los Angeles,CA,2023-04-10,351.06,Active
+CUST-1952,Amelia,Rodriguez,amelia.rodriguez952@example.com,+1-833-555-7673,Austin,TX,2023-12-15,4485.92,Inactive
+CUST-1953,Lucas,Rodriguez,lucas.rodriguez953@example.com,+1-668-555-1227,Houston,TX,2023-02-18,2139.16,Active
+CUST-1954,Benjamin,Garcia,benjamin.garcia954@example.com,+1-613-555-4471,San Antonio,TX,2023-03-13,3585.48,Active
+CUST-1955,Emma,Davis,emma.davis955@example.com,+1-819-555-2242,Seattle,WA,2023-09-07,4997.61,Inactive
+CUST-1956,Evelyn,Rodriguez,evelyn.rodriguez956@example.com,+1-313-555-2457,Washington,DC,2023-03-11,2120.35,Active
+CUST-1957,Mia,Thomas,mia.thomas957@example.com,+1-869-555-7641,Phoenix,AZ,2023-02-14,596.1,Inactive
+CUST-1958,Benjamin,Martin,benjamin.martin958@example.com,+1-264-555-7175,Houston,TX,2023-12-08,1696.73,Pending
+CUST-1959,Liam,Jones,liam.jones959@example.com,+1-279-555-1116,Chicago,IL,2023-01-08,2633.89,Active
+CUST-1960,Olivia,Martin,olivia.martin960@example.com,+1-436-555-1697,San Antonio,TX,2023-12-18,4110.95,Inactive
+CUST-1961,Isabella,Williams,isabella.williams961@example.com,+1-223-555-2718,Indianapolis,IN,2023-01-22,3313.08,Inactive
+CUST-1962,Henry,Hernandez,henry.hernandez962@example.com,+1-920-555-9713,Seattle,WA,2023-10-24,765.96,Active
+CUST-1963,Liam,Anderson,liam.anderson963@example.com,+1-348-555-9233,San Francisco,CA,2023-05-14,1292.67,Pending
+CUST-1964,Emma,Wilson,emma.wilson964@example.com,+1-935-555-6523,Houston,TX,2023-12-18,4674.79,Active
+CUST-1965,Henry,Taylor,henry.taylor965@example.com,+1-286-555-4791,Fort Worth,TX,2023-09-23,2193.19,Active
+CUST-1966,James,Miller,james.miller966@example.com,+1-237-555-6561,Seattle,WA,2023-12-03,1695.91,Inactive
+CUST-1967,Olivia,Gonzalez,olivia.gonzalez967@example.com,+1-435-555-1910,Chicago,IL,2023-03-08,4626.33,Active
+CUST-1968,Evelyn,Moore,evelyn.moore968@example.com,+1-635-555-1696,Indianapolis,IN,2023-12-20,354.36,Active
+CUST-1969,Lucas,Anderson,lucas.anderson969@example.com,+1-954-555-7100,Houston,TX,2023-11-24,4810.22,Active
+CUST-1970,Lucas,Gonzalez,lucas.gonzalez970@example.com,+1-752-555-9828,Phoenix,AZ,2023-05-24,1750.99,Active
+CUST-1971,Mason,Miller,mason.miller971@example.com,+1-772-555-2826,Seattle,WA,2023-09-28,1572.85,Active
+CUST-1972,James,Hernandez,james.hernandez972@example.com,+1-475-555-3998,New York,NY,2023-10-07,1240.04,Pending
+CUST-1973,Emma,Gonzalez,emma.gonzalez973@example.com,+1-719-555-3163,San Jose,CA,2023-01-24,800.56,Pending
+CUST-1974,Liam,Rodriguez,liam.rodriguez974@example.com,+1-442-555-9105,San Antonio,TX,2023-04-16,2699.59,Active
+CUST-1975,Amelia,Taylor,amelia.taylor975@example.com,+1-984-555-9369,Chicago,IL,2023-08-24,4467.7,Pending
+CUST-1976,Olivia,Lopez,olivia.lopez976@example.com,+1-896-555-2294,Charlotte,NC,2023-10-14,1430.26,Active
+CUST-1977,Henry,Jackson,henry.jackson977@example.com,+1-838-555-5023,Washington,DC,2023-08-09,2155.33,Active
+CUST-1978,Benjamin,Moore,benjamin.moore978@example.com,+1-648-555-7315,San Diego,CA,2023-12-26,117.4,Pending
+CUST-1979,Alexander,Taylor,alexander.taylor979@example.com,+1-955-555-3758,Chicago,IL,2023-10-02,3736.42,Active
+CUST-1980,Mia,Rodriguez,mia.rodriguez980@example.com,+1-495-555-3228,Denver,CO,2023-06-03,3292.45,Active
+CUST-1981,Ava,Thomas,ava.thomas981@example.com,+1-562-555-1145,Charlotte,NC,2023-08-08,1276.5,Inactive
+CUST-1982,William,Rodriguez,william.rodriguez982@example.com,+1-228-555-8487,Los Angeles,CA,2023-02-11,2505.0,Active
+CUST-1983,Emma,Johnson,emma.johnson983@example.com,+1-885-555-6684,San Francisco,CA,2023-08-17,446.29,Inactive
+CUST-1984,Evelyn,Martin,evelyn.martin984@example.com,+1-962-555-8062,Chicago,IL,2023-04-06,3705.15,Active
+CUST-1985,Liam,Garcia,liam.garcia985@example.com,+1-823-555-7965,Seattle,WA,2023-01-16,2299.96,Active
+CUST-1986,Isabella,Williams,isabella.williams986@example.com,+1-769-555-6841,Seattle,WA,2023-09-21,619.6,Active
+CUST-1987,Mia,Brown,mia.brown987@example.com,+1-225-555-4023,San Francisco,CA,2023-01-25,3682.16,Inactive
+CUST-1988,Mia,Hernandez,mia.hernandez988@example.com,+1-744-555-7738,Jacksonville,FL,2023-05-06,4815.27,Pending
+CUST-1989,Liam,Martin,liam.martin989@example.com,+1-939-555-3383,Los Angeles,CA,2023-07-19,1912.22,Active
+CUST-1990,Liam,Martinez,liam.martinez990@example.com,+1-332-555-3686,Denver,CO,2023-12-10,2582.24,Active
+CUST-1991,Amelia,Moore,amelia.moore991@example.com,+1-469-555-7150,Washington,DC,2023-05-26,3504.97,Inactive
+CUST-1992,Amelia,Martin,amelia.martin992@example.com,+1-552-555-9400,Washington,DC,2023-12-18,4538.19,Active
+CUST-1993,Evelyn,Taylor,evelyn.taylor993@example.com,+1-715-555-6152,Charlotte,NC,2023-03-10,4082.72,Active
+CUST-1994,Amelia,Rodriguez,amelia.rodriguez994@example.com,+1-521-555-5877,Dallas,TX,2023-10-20,2694.12,Pending
+CUST-1995,Mia,Lopez,mia.lopez995@example.com,+1-546-555-3783,Dallas,TX,2023-05-19,1681.9,Active
+CUST-1996,Olivia,Martin,olivia.martin996@example.com,+1-707-555-3340,Los Angeles,CA,2023-10-01,3455.83,Active
+CUST-1997,Mason,Jackson,mason.jackson997@example.com,+1-849-555-7727,Phoenix,AZ,2023-05-26,3386.65,Active
+CUST-1998,Benjamin,Rodriguez,benjamin.rodriguez998@example.com,+1-257-555-4418,Washington,DC,2023-02-08,1646.73,Active
+CUST-1999,Sophia,Gonzalez,sophia.gonzalez999@example.com,+1-984-555-6965,New York,NY,2023-11-09,4706.01,Pending
+CUST-2000,Liam,Rodriguez,liam.rodriguez1000@example.com,+1-612-555-3489,Charlotte,NC,2023-12-15,3614.38,Active
